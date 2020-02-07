@@ -4873,13 +4873,13 @@ div3 text,"
             -530.
             Savon de Prusse que des
               Religieuses font a
-                lat_long=""-34.3323213,-57.6987877"">Tourn qu'elles
+                Tourn qu'elles
               apellent creme de Savon.
             
               99.
             
           "
-place,"lat_long=""-34.3323213,-57.6987877"">Tourn"
+place,Tourn
 catnum,530
 div3
 div2 label,Miscellanies.
@@ -13406,8 +13406,9 @@ div3 text,"
             
           "
 person,Mr. Jo. Scheuchzer
+place,Zurich
 place,Baden
-place,
+place,Zurich
 catnum,738
 div3
 div2 label,Antiquities.
@@ -17801,25 +17802,6 @@ place,Canterbury
 catnum,109
 div3
 div2 label,Impressions of Seals &c.
-page id,EPF108491217
-div3 text,"
-            114.
-            
-              ✓
-            
-            
-              ✓ 199 c 18
-            
-            Another smaller cut in Brass, bearing a
-                Hand pointing out, with this Inscription: Dat Deus omnebonũ. [This was 516 of antiquities.]
-            
-              XXXV. 50.
-            
-          "
-person,Hand
-catnum,114
-div3
-div2 label,Impressions of Seals &c.
 page id,EPF108491218
 div3 text,"
             120.
@@ -18071,20 +18053,6 @@ div3 text,"
           "
 person,K. Henry VIII
 catnum,220
-div3
-div2 label,Impressions of Seals &c.
-page id,EPF108491229
-div3 text,"
-            235.
-            A Woman sitting, a Surgeon dressing
-              her knee, with this Motto: Charadoles pedibus? Sivevulmis
-                altius?
-            
-              17.
-            
-          "
-person,Surgeon
-catnum,235
 div3
 div2 label,Impressions of Seals &c.
 page id,EPF108491230
@@ -18465,10 +18433,9 @@ div2 label,Pictures &c.
 page id,EPF108491239
 div3 text,"
             -23.
-             Mr. Fullers house
-               in Sussex.
+            Mr. Fullers house in Sussex.
           "
-person,
+person,Mr. Fullers
 place,Sussex
 catnum,23
 div3
@@ -21224,14 +21191,13 @@ page id,EPF108491274
 div3 text,"
             -24.
             One bought of Wynne & wch.- belonged to
-              the  D. of
-              Albemarle.
+              the  D. of Albemarle.
             
               253. <
             
           "
 person,Wynne
-person,D. of
+person,D. of Albemarle.
 catnum,24
 div3
 div2 label,Mathematicall instruments &c
