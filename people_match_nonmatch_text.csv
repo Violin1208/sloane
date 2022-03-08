@@ -111,7 +111,7 @@ Mr. Hodsun,#Mr._Hodson,,['1813'],Miscellanies.,EPF108491002v,"-1813.
                   Mr. Hodsun.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1813.</ea:catnum>
             <p>A sheet of <note type=""colour"">white</note>
-              <add rend=""underline"">paper</add> 21 <measure>foot long</measure> &amp; 4 1/2 <measure type=""sizeWeight"">broad</measure> from <placeName>China<lb/></placeName> by
+              <add rend=""underline"">paper</add> 21 <measure>foot long</measure> &amp; 4 1/2 <measure type=""sizeWeight"">broad</measure> from <placeName ref=""#China"">China<lb/></placeName> by
                   <persName ref=""#Mr._Hodson"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Hodsun</add></persName>.</p>
             <p>
               
@@ -163,7 +163,7 @@ Mr. Cunningham,#James_Cunningham,,['9'],Miscellanies.,EPF108491003,"___9.
               
               X","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">___9.</ea:catnum>
-            <p>A <add rend=""underline"">hatt</add> from <placeName ref=""#Tunquin"">Tunquin</placeName>
+            <p>A <add rend=""underline"">hatt</add> from <placeName ref=""#Tonkin"">Tunquin</placeName>
               where it belonged to<lb/> the Queen. It is made of 2 Talipot<lb/> leaves on the upper
               side &amp; cane<lb/> underneath. It was sent me by<lb/>
               <persName ref=""#James_Cunningham"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Cunningham</add></persName>.</p>
@@ -250,10 +250,10 @@ Isaac Waldron Esqr,#Isaac_Waldron_Esqr,,['1831'],Miscellanies.,EPF108491003v,"-1
             <ea:catnum type=""primary"" place=""margin"">-1831.</ea:catnum>
             <p>A <measure>piece</measure> of <measure>some</measure>
               <add rend=""underline"">instrument of musick</add> found at <unclear/>Meriat.<lb/>
-              <placeName>hope near Bristol</placeName> in <measure>some</measure> plowed land on a
+              <placeName ref=""#Bristol"">hope near Bristol</placeName> in <measure>some</measure> plowed land on a
               spott where<lb/> King Philipp lived &amp; undoubtedly was made befor any<lb/> tools
               were invented there gave me by <persName ref=""#Isaac_Waldron_Esqr"">Isaac <add rend=""underline"">Waldron</add> Esq<hi rend=""sup"">r</hi></persName><lb/>
-              <placeName>Bristol</placeName> March. 19. 1735/6 <add rend=""underline"">Id.</add></p>
+              <placeName ref=""#Bristol"">Bristol</placeName> March. 19. 1735/6 <add rend=""underline"">Id.</add></p>
             <p>
               
               <add rend=""red"">28 b.</add>
@@ -316,7 +316,7 @@ Mr. Edwards,#Mr._Edwards,13086266,['1838'],Miscellanies.,EPF108491004v,"-1838.
             <p>A 
               <add rend=""underline"">bolt</add> made of <material>unicorns <add rend=""underline"">horn</add></material> on w<hi rend=""sup"">ch</hi>. are rudely engraved<lb/> boats
               canoes &amp;c. <metamark function=""carets"">fastened</metamark> w<hi rend=""sup"">t</hi>.
-              a <material>fish skin</material> - From <add rend=""underline""><placeName>Hudsons
+              a <material>fish skin</material> - From <add rend=""underline""><placeName ref=""#Hudson_Bay"">Hudsons
                   Bay<lb/></placeName></add> by <persName ref=""#George_Edwards, Mr._Edwards""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Edwards</add></persName>.</p>
             <p>
               
@@ -334,7 +334,7 @@ Dr. Massy,#Richard_Middleton_Massey,,['1843'],Miscellanies.,EPF108491004v,"-1843
             <ea:catnum type=""primary"" place=""margin"">-1843.</ea:catnum>
             <p>A <add rend=""underline"">necklace</add> made of a sweet smelling
                 <material>grasse</material> from<lb/>
-              <add rend=""underline""><placeName>Hudsons bay</placeName></add> by the natives who have
+              <add rend=""underline""><placeName ref=""#Hudson_Bay"">Hudsons bay</placeName></add> by the natives who have
               of them<lb/> made into bracelets by <persName ref=""#Richard_Middleton_Massey"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Massy</add></persName> an cyperus or<lb/>
               <abbr>Gr.</abbr> Mariæ an for ornament or remedy?</p>
             <p>
@@ -348,7 +348,7 @@ Mr. Edwards,#Mr._Edwards,13086266,['1844'],Miscellanies.,EPF108491004v,"-1844.
               bearded bones sett at the end of a sharp wo- oden pole all fastened wt. fish
                 gutts. from  Mr. Edwards.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1844.</ea:catnum>
-            <p>A <add rend=""underline"">fisgegg</add> from <placeName><add rend=""underline"">Hudsons</add> bay</placeName> to catch salmon made of<lb/> two <measure type=""sizeWeight"">long</measure>
+            <p>A <add rend=""underline"">fisgegg</add> from <placeName ref=""#Hudson_Bay""><add rend=""underline"">Hudsons</add> bay</placeName> to catch salmon made of<lb/> two <measure type=""sizeWeight"">long</measure>
               <material>bearded bones</material> sett at the end of a <note type=""texture"">sharp</note> wo-<lb/> oden pole all fastened w<hi rend=""sup"">t</hi>. <material>fish
                 gutts</material>. from <persName ref=""#George_Edwards, Mr._Edwards""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Edwards</add></persName>.</p>
             <p>
@@ -362,7 +362,7 @@ Mr. Collinson,#Peter_Collinson,13091055,['1845'],Miscellanies.,EPF108491004v,"-1
                 wt. brown lines. from 
               Mr. Collinson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1845.</ea:catnum>
-            <p>A <add rend=""underline"">stick</add> made of the <material><add rend=""underline"">sorrell</add> tree</material> in <placeName>Carolina </placeName>painted<lb/>
+            <p>A <add rend=""underline"">stick</add> made of the <material><add rend=""underline"">sorrell</add> tree</material> in <placeName ref=""#Carolina"">Carolina </placeName>painted<lb/>
                 w<hi rend=""sup"">t</hi>. <note type=""colour"">brown</note> lines. from 
               <persName ref=""#Peter_Collinson"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Collinson</add></persName>.</p>
             <p>
@@ -371,7 +371,7 @@ Mr. Collinson,#Peter_Collinson,13091055,['1845'],Miscellanies.,EPF108491004v,"-1
           </div3>
 
           "
-Monsr. Gosset,#Matthew_Gosset,507153596616951900007,['1847'],Miscellanies.,EPF108491004v,"-1847.
+Monsr. Gosset,#Matthew_Gosset,5.07154E+20,['1847'],Miscellanies.,EPF108491004v,"-1847.
             An odd figured punch ladle made of yew wood by  Monsr.
                 Gosset in Ireland & given to me by him.
             
@@ -451,7 +451,7 @@ Dr. Massy,#Richard_Middleton_Massey,,['1856'],Miscellanies.,EPF108491005v,"-1856
               <metamark function=""carets"">
                 <add hand=""shift""><add rend=""underline""> Boots</add></add></metamark> w<hi rend=""sup"">t</hi>. a <measure type=""sizeWeight"">great</measure> top such as
               fisherman use made<lb/> of <metamark function=""carets"">Deer</metamark> whale or fish
-                <material>skins</material> from <placeName>Hudsons bay</placeName> by 
+                <material>skins</material> from <placeName ref=""#Hudson_Bay"">Hudsons bay</placeName> by 
               <persName ref=""#Richard_Middleton_Massey"">D<hi rend=""sup"">r</hi>. Massy</persName>.</p>
             <p>
               <add rend=""red"">CCXVI</add>
@@ -500,7 +500,68 @@ Philip. 2d,#Philip_2nd_of_Spain,,['1860'],Miscellanies.,EPF108491005v,"-1860
               
             </p>
           </div3>
-"
+
+          "
+Mrs. Edwards,#Mrs._Edwards,,['1861'],Miscellanies.,EPF108491005v,"-1861
+            
+             to me by
+                  Mrs. Edwards.
+              enter'd by mistake given by Sr. Hans to
+              me J Empson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+            <ea:catnum type=""primary"" place=""margin"">
+              <add rend=""del"">-1861</add>
+            </ea:catnum>
+            <p><lb/> to me by
+                  <persName ref=""#Mrs_Edwards, Mrs._Edwards"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Edwards</add></persName>.
+              enter'd by mistake<lb/> given by <persName ref=""#Hans_Sloane"">S<hi rend=""sup"">r</hi>. Hans</persName> to
+              me <persName ref=""#J_Empson"">J Empson</persName>.</p>
+            <p>
+              
+            </p>
+          </div3>
+        
+
+          "
+Sr. Hans,#Hans_Sloane,77959,['1861'],Miscellanies.,EPF108491005v,"-1861
+            
+             to me by
+                  Mrs. Edwards.
+              enter'd by mistake given by Sr. Hans to
+              me J Empson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+            <ea:catnum type=""primary"" place=""margin"">
+              <add rend=""del"">-1861</add>
+            </ea:catnum>
+            <p><lb/> to me by
+                  <persName ref=""#Mrs_Edwards, Mrs._Edwards"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Edwards</add></persName>.
+              enter'd by mistake<lb/> given by <persName ref=""#Hans_Sloane"">S<hi rend=""sup"">r</hi>. Hans</persName> to
+              me <persName ref=""#J_Empson"">J Empson</persName>.</p>
+            <p>
+              
+            </p>
+          </div3>
+        
+
+          "
+J Empson,#J_Empson,,['1861'],Miscellanies.,EPF108491005v,"-1861
+            
+             to me by
+                  Mrs. Edwards.
+              enter'd by mistake given by Sr. Hans to
+              me J Empson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+            <ea:catnum type=""primary"" place=""margin"">
+              <add rend=""del"">-1861</add>
+            </ea:catnum>
+            <p><lb/> to me by
+                  <persName ref=""#Mrs_Edwards, Mrs._Edwards"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Edwards</add></persName>.
+              enter'd by mistake<lb/> given by <persName ref=""#Hans_Sloane"">S<hi rend=""sup"">r</hi>. Hans</persName> to
+              me <persName ref=""#J_Empson"">J Empson</persName>.</p>
+            <p>
+              
+            </p>
+          </div3>
+        
+
+          "
 Lady Sondes,#Lady_Sondes,,['1862'],Miscellanies.,EPF108491005v,"-1862
             
               Lady Sondes. enter'd by mistake
@@ -601,7 +662,7 @@ Capt. Midleton.,#Capt_Christopher_Middleton,2604452,['1867'],Miscellanies.,EPF10
               instruments belonging to it. given to me by  Capt.
                   Midleton.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">1867.</ea:catnum>
-            <p>A <add rend=""underline"">Canoa</add> from <metamark function=""carets""><placeName>Hudsons bay</placeName> or</metamark>
+            <p>A <add rend=""underline"">Canoa</add> from <metamark function=""carets""><placeName ref=""#Hudson_Bay"">Hudsons bay</placeName> or</metamark>
               <placeName ref=""#Greenland"">Greenland</placeName> w<hi rend=""sup"">t</hi>. some
               instruments belonging<lb/> to it. given to me by <persName ref=""#Capt_Christopher_Middleton""> Cap<hi rend=""sup"">t</hi>.
                   <add rend=""underline"">Midleton.</add></persName></p>
@@ -626,7 +687,7 @@ Mr. Hoofnail,#Mr_Hoofnail,,['1869'],Miscellanies.,EPF108491006v,"-1869.
                 <add rend=""underline"">foyles</add> to be used<lb/> in setting under I wells or
               pretious stones or chrystalls, &amp;<lb/>
               <material>glasse</material> to counter feit them given to me by <persName ref=""#Mr_Hoofnail"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Hoofnail</add></persName><lb/> in
-                <placeName>fountain court in the strand</placeName> Jeweller.</p>
+                <placeName ref=""#Fountain_Court_Strand"">fountain court in the strand</placeName> Jeweller.</p>
             <p>
               
               <add rend=""red"">27 C</add>
@@ -722,7 +783,7 @@ Dr. Krieg,#David_Krieg,289291613,['55'],Miscellanies.,EPF108491007,"-55.
                Dr. Krieg, made of 2 pieces of
                 wood, the one hollowed of firr, the other flatt & holes in it of oak.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-55.</ea:catnum>
-            <p>A <placeName> Livonia</placeName>
+            <p>A <placeName ref=""#Livonia""> Livonia</placeName>
               <add rend=""underline"">Cittern</add> sent me by<lb/>
               <persName ref=""#David_Krieg""> D<hi rend=""sup"">r</hi>. Krieg</persName>, made of 2 pieces<lb/> of
                 <material>wood</material>, the one hollowed of<lb/> firr, the other <measure type=""shape"">flatt</measure> &amp; holes<lb/> in it of oak.</p>
@@ -738,7 +799,7 @@ Mr.- Cunningham,#James_Cunningham,,['64'],Miscellanies.,EPF108491007,"-64.
               
               25","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-64.</ea:catnum>
-            <p>A Chinese <add rend=""underline"">compasse</add> sent me by <persName ref=""#James_Cunningham"">M<hi rend=""sup"">r</hi>.-<lb/> Cunningham</persName> in a <placeName>Japan</placeName> box.</p>
+            <p>A Chinese <add rend=""underline"">compasse</add> sent me by <persName ref=""#James_Cunningham"">M<hi rend=""sup"">r</hi>.-<lb/> Cunningham</persName> in a <placeName ref=""#Japan"">Japan</placeName> box.</p>
             <p>
               
               <add rend=""red"">25</add>
@@ -911,7 +972,7 @@ Mrs. Hayes,#Mrs_Hayes,,['114'],Miscellanies.,EPF108491010,"-114.
               
               X","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-114.</ea:catnum>
-            <p><placeName>East India</placeName>
+            <p><placeName ref=""#East_Indies"">East India</placeName>
               <add rend=""underline"">writing box</add> bought <lb/> of <persName ref=""#Mrs_Hayes"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Hayes</add></persName>. It was sent to her <lb/>
               by her brother <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName> from <lb/> the <placeName ref=""#East_Indies"">East
                 Indies</placeName>. ------ } <note type=""value"">0. 7. 6.</note></p>
@@ -930,7 +991,7 @@ Dr. Waldo,#Daniel_Waldo,,['114'],Miscellanies.,EPF108491010,"-114.
               
               X","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-114.</ea:catnum>
-            <p><placeName>East India</placeName>
+            <p><placeName ref=""#East_Indies"">East India</placeName>
               <add rend=""underline"">writing box</add> bought <lb/> of <persName ref=""#Mrs_Hayes"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Hayes</add></persName>. It was sent to her <lb/>
               by her brother <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName> from <lb/> the <placeName ref=""#East_Indies"">East
                 Indies</placeName>. ------ } <note type=""value"">0. 7. 6.</note></p>
@@ -1017,7 +1078,7 @@ Capt Christophr. Middleton,#Capt_Christopher_Middleton,2604452,['1934'],Miscella
               19. k","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1934.</ea:catnum>
             <p>Salt <metamark function=""carets"">ous of water</metamark> produced by melting
-              Ice,taken<lb/> from under the Surface of the sea<lb/> in <placeName>Hudson's
+              Ice,taken<lb/> from under the Surface of the sea<lb/> in <placeName ref=""#Hudson_Strait"">Hudson's
                 Streights</placeName>, by <persName ref=""#Capt_Christopher_Middleton""> Cap<hi rend=""sup"">t</hi> Christoph<hi rend=""sup"">r</hi>.<lb/> Middleton</persName> F.R.S in July 1738.<lb/> NB. out of
               Id LXXX [or pints] of this Water<lb/> he obtained by evaporation only Zvj <figure rend=""symbol""/><lb/> of this Salt. He said the salt is not<lb/> sensible to the tast
               in the water of<lb/> the melted Ice &amp; y<hi rend=""sup"">t</hi> they comonly
@@ -1597,7 +1658,7 @@ Verle,#Gio_Bapt_Verle,160344796,['196'],Miscellanies.,EPF108491016,"196.
           </div3>
 
           "
-Mr. Villarmont,#Mr_Villarmont,68318896 ,['201'],Miscellanies.,EPF108491016,"201.
+Mr. Villarmont,#Mr_Villarmont,68318896,['201'],Miscellanies.,EPF108491016,"201.
             A small
               racquette & small
               shoe made by the Savages of Canada wt. wch. they walk
@@ -1820,7 +1881,7 @@ Dr. Bartram,#John_Bartram,24697168,['2038'],Miscellanies.,EPF108491018v,"2038.
             </ea:catnum>
             <p>
               <add hand=""shift"">The head of an arrow made of<lb/>
-                <note type=""colour"">white</note> sparr, from <placeName>Penslvany</placeName> br<lb/>
+                <note type=""colour"">white</note> sparr, from <placeName ref=""#Pennsylvania"">Penslvany</placeName> br<lb/>
                 <persName ref=""#John_Bartram""> D<hi rend=""sup"">r</hi>. Bartram</persName> w<hi rend=""sup"">t</hi>. the
                 following remark<lb/> The <measure type=""sizeWeight"">thin</measure>
                 <note type=""colour"">white</note> stone is an Indian<lb/> arrow point as small&amp;
@@ -1850,7 +1911,7 @@ Mr. Cotts,#Mr._Cotts,,['2040'],Miscellanies.,EPF108491018v,"2040.
             </ea:catnum>
             <p>
               <add hand=""shift"">a Cradle w<hi rend=""sup"">t</hi>. a pair of Shoes from
-                  <placeName>Hudsons<lb/> Bay</placeName>
+                  <placeName ref=""#Hudson_Bay"">Hudsons<lb/> Bay</placeName>
                  by <persName ref=""#Mr._Cotts"">M<hi rend=""sup"">r</hi>. Cotts</persName>
                 Surgeon</add>
             </p>
@@ -1895,7 +1956,7 @@ Mrs. Edwards,#Mrs._Edwards,,['2048'],Miscellanies.,EPF108491019v,"2048.
             </ea:catnum>
             <p>
               <add hand=""shift"">Ten sev<hi rend=""sup"">ll</hi> :habits tending to the<lb/> Religious
-                orders from <placeName>Flanders<lb/></placeName> from <persName ref=""#Mrs_Edwards, Mrs._Edwards"">M<hi rend=""sup"">rs</hi>. Edwards</persName></add>
+                orders from <placeName ref=""#Flanders"">Flanders<lb/></placeName> from <persName ref=""#Mrs_Edwards, Mrs._Edwards"">M<hi rend=""sup"">rs</hi>. Edwards</persName></add>
             </p>
             <p>
               <add rend=""red"">&lt;199. c. 29 b.</add>
@@ -1904,7 +1965,7 @@ Mrs. Edwards,#Mrs._Edwards,,['2048'],Miscellanies.,EPF108491019v,"2048.
           </div3>
 
           "
-Mr Bell,#George_Bell,3745148705707037080009,['2049'],Miscellanies.,EPF108491019v,"2049
+Mr Bell,#George_Bell,3.74515E+21,['2049'],Miscellanies.,EPF108491019v,"2049
             
             
               Sevll : flowers made of
@@ -2050,16 +2111,14 @@ Capt : Middleton,#Capt_Christopher_Middleton,2604452,['2065'],Miscellanies.,EPF1
             A nest of Olagans or Thirty Basketts made w
                 t.
               Birch Bark & adorn'd wt :
-                Porcupines quils given me by  Capt : Middleton who' brought them from Hudson
-                bay. Different houragans, ou petits paniers fait d'ecorces d'
+                Porcupines quils given me by  Capt : Middleton who' brought them from Hudson bay. Different houragans, ou petits paniers fait d'ecorces d'
               arbres par les Sauvages du Canada.
                 Biron p. 281.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">2065.</ea:catnum>
             <p><metamark function=""carets"">A nest of Olagans or</metamark> Thirty Basketts made w
                 <hi rend=""sup"">t.</hi>
               <material>Birch<lb/> Bark</material> &amp; adorn'd w<hi rend=""sup"">t</hi> :
-                <material>Porcupines quils</material><lb/> given me by <persName ref=""#Capt_Christopher_Middleton""> Cap<hi rend=""sup"">t</hi> : Middleton</persName> who'<lb/> brought them from <placeName>Hudson
-                bay</placeName>.<lb/> Different houragans, ou petits paniers fait<lb/> d'ecorces d'
+                <material>Porcupines quils</material><lb/> given me by <persName ref=""#Capt_Christopher_Middleton""> Cap<hi rend=""sup"">t</hi> : Middleton</persName> who'<lb/> brought them from <placeName ref=""#Hudson_Bay"">Hudson bay</placeName>.<lb/> Different houragans, ou petits paniers fait<lb/> d'ecorces d'
               arbres par les Sauvages du <placeName ref=""#Canada"">Canada</placeName>.
                 <bibl>Biron<lb/> p. 281.</bibl></p>
             <p>
@@ -2092,9 +2151,9 @@ Mr. Bartram,#John_Bartram,24697168,['2067'],Miscellanies.,EPF108491021v,"2067.
               <material>clay</material> mix't w<hi rend=""sup"">t</hi> : pounded<lb/>
               <material>shells</material> I suppose to add a firmer<lb/> Consistency to it I suppose
               the<lb/> roughness on the out side was<lb/> done w<hi rend=""sup"">t</hi>. design for
-              most on<lb/> our sea coast &amp; <placeName>Susquehama</placeName><lb/> is so but I
-              have one that was<lb/> found between <placeName>delaware</placeName> &amp;<lb/>
-              <placeName>Hudson river</placeName> that was very<lb/>
+              most on<lb/> our sea coast &amp; <placeName ref=""#Susquehanna"">Susquehama</placeName><lb/> is so but I
+              have one that was<lb/> found between <placeName ref=""#Delaware"">delaware</placeName> &amp;<lb/>
+              <placeName ref=""#Hudson_River"">Hudson river</placeName> that was very<lb/>
               <note type=""texture"">smooth</note> on the out side. from<lb/>
               <placeName ref=""#Philadelphia"">Philadelphia</placeName> by <persName ref=""#John_Bartram""> M<hi rend=""sup"">r</hi>. Bartram</persName></p>
             <p>
@@ -2209,7 +2268,7 @@ Mr. Winthorp,#John_Winthrop,11132722,['2080'],Miscellanies.,EPF108491023v,"2080.
               
               19 m","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">2080.</ea:catnum>
-            <p>Bay berry soap from <placeName>new England</placeName><lb/> tis <persName ref=""#John_Winthrop""> M<hi rend=""sup"">r</hi>. Winthorp</persName></p>
+            <p>Bay berry soap from <placeName ref=""#New_England"">new England</placeName><lb/> tis <persName ref=""#John_Winthrop""> M<hi rend=""sup"">r</hi>. Winthorp</persName></p>
             <p>
               
               <add rend=""red"">19 m</add>
@@ -2273,8 +2332,8 @@ Mr. Wildy,#Mr_Wildy,25936371,['2092'],Miscellanies.,EPF108491024v,"2092.
             <ea:catnum type=""primary"" place=""margin"">2092.</ea:catnum>
             <p>A Hygrometer 
               <lb/> of a new invention from
-                <placeName>Germany<lb/></placeName> given me by <persName ref=""#Mr_Wildy""> M<hi rend=""sup"">r.</hi> 
-                Wildy</persName> at the corner<lb/> of <placeName>Pauls church yard</placeName>.</p>
+                <placeName ref=""#Germany"">Germany<lb/></placeName> given me by <persName ref=""#Mr_Wildy""> M<hi rend=""sup"">r.</hi> 
+                Wildy</persName> at the corner<lb/> of <placeName ref=""#St_Paul"">Pauls church yard</placeName>.</p>
             <p>
               
               <add rend=""red""> 19 g</add>
@@ -2353,7 +2412,7 @@ Mr. Clark,#Mr._Clark,,['2096'],Miscellanies.,EPF108491025v,"2096
             <ea:catnum type=""primary"" place=""margin"">2096</ea:catnum>
             <p>An Indian Hatchet made of<lb/>
               <note type=""colour"">white</note>
-              <material>sparr</material> From <placeName>Barbados<lb/></placeName> by the Rev<hi rend=""sup"">d</hi>
+              <material>sparr</material> From <placeName ref=""#Barbados"">Barbados<lb/></placeName> by the Rev<hi rend=""sup"">d</hi>
               <persName ref=""#Mr._Clark"">M<hi rend=""sup"">r</hi>. Clark</persName>.</p>
             <p>
               
@@ -2554,7 +2613,7 @@ Mr. Hawkeens,#Mr_Hawkeens,,['2103'],Miscellanies.,EPF108491026v,"2103.
             <ea:catnum type=""primary"" place=""margin"">2103.</ea:catnum>
             <p>A Knitting-Needle-Case<lb/> w<hi rend=""sup"">t</hi>. a Chain to it, cutt<lb/> out of
               one peice of <material>wood</material>
-              <lb/> by a Shepard in <placeName>Oxfordshire</placeName>.<lb/> from <persName ref=""#Mr_Hawkeens"">M<hi rend=""sup"">r</hi>. Hawkeens</persName>.</p>
+              <lb/> by a Shepard in <placeName ref=""#Oxfordshire"">Oxfordshire</placeName>.<lb/> from <persName ref=""#Mr_Hawkeens"">M<hi rend=""sup"">r</hi>. Hawkeens</persName>.</p>
             <p>
               
               <add rend=""red"">20 m</add>
@@ -2571,7 +2630,7 @@ Mr. Fairweather,#Mr_Fairweather,,['2105'],Miscellanies.,EPF108491026v,"2105.
               19 R
               XX","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">2105.</ea:catnum>
-            <p>The Habet of the Queen of <placeName>Mada=<lb/> =gascar</placeName> made of
+            <p>The Habet of the Queen of <placeName ref=""#Madagascar"">Mada=<lb/> =gascar</placeName> made of
                 <material>Grasse</material> wove Carpet<lb/> -wise and dyed of sev<hi rend=""sup"">l</hi> : colours. given.<lb/> me by <persName ref=""#Mr_Fairweather"">M<hi rend=""sup"">r</hi>.
                 Fairweather</persName> to whom<lb/> it was given by the Queen herself.</p>
             <p>
@@ -2659,7 +2718,7 @@ King Charles the Second,#Charles_II,88984774,['2110'],Miscellanies.,EPF108491027
           </div3>
 
           "
-Willm. Hanbury Esqr,#William_Hanbury,333145857954723021375,['2110'],Miscellanies.,EPF108491027v,"2110
+Willm. Hanbury Esqr,#William_Hanbury,3.33146E+20,['2110'],Miscellanies.,EPF108491027v,"2110
             A nest of twenty three Pearl Sieves brought in 
                 King Charles the Second's time from
               India. Presented by  Willm. Hanbury Esqr.
@@ -2733,7 +2792,7 @@ Father Fontaney,#Jean_De_Fontaney,,['323'],Miscellanies.,EPF108491028,"-323.
             </p>
           </div3>
           "
-Dr. Slare,#Frederick_Slare,120836054 ,['324'],Miscellanies.,EPF108491028,"-324.
+Dr. Slare,#Frederick_Slare,120836054,['324'],Miscellanies.,EPF108491028,"-324.
             The joint of a Bambo
                 cane
               painted on &
@@ -2947,7 +3006,7 @@ Monsr. Villette,#Monsr_Villette,,['364'],Miscellanies.,EPF108491032,"364.
             <p>A <measure>piece</measure> of <add rend=""underline""><material>freestone
                   vitrified</material></add> by<lb/> the burning <material>glasse</material> of
                   <persName ref=""#Monsr_Villette"">Mons<hi rend=""sup"">r</hi>.<lb/>
-                <add rend=""underline"">Villette</add></persName> of <placeName ref=""#Lyon"">Lyons</placeName>. At ""<placeName>paris</placeName>-<lb/> 1682.</p>
+                <add rend=""underline"">Villette</add></persName> of <placeName ref=""#Lyon"">Lyons</placeName>. At ""<placeName ref=""#Paris"">paris</placeName>-<lb/> 1682.</p>
             <p>
               
             </p>
@@ -3106,7 +3165,7 @@ Dr. Leigh,#Charles_Leigh,24945528,['448'],Miscellanies.,EPF108491039,"-448.
                 shire from  Dr. Leigh ?","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-448.</ea:catnum>
             <p><note type=""colour"">Black</note>
-              <material><add rend=""underline"">glasse</add></material> ? from <placeName>Darby
+              <material><add rend=""underline"">glasse</add></material> ? from <placeName ref=""#Derbyshire"">Darby
                 shire</placeName><lb/> from <persName ref=""#Charles_Leigh""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Leigh</add></persName> ?</p>
             <p>
               
@@ -3279,8 +3338,8 @@ Lord Halifax,#Charles_Montagu,22485966,['499'],Miscellanies.,EPF108491045,"-499.
             <p>A 
               <material>brasse</material>
               <add rend=""underline"">head</add> three barrels<lb/> of w<hi rend=""sup"">ch</hi>. were
-              left by the French<lb/> when they retired from <placeName>Brussels<lb/></placeName>
-              under the Elector of <placeName>Bavaria<lb/></placeName> shott by them from their
+              left by the French<lb/> when they retired from <placeName ref=""#Brussels"">Brussels<lb/></placeName>
+              under the Elector of <placeName ref=""#Bavaria"">Bavaria<lb/></placeName> shott by them from their
               great<lb/> gunns. Given me by the <persName ref=""#Charles_Montagu""> Lord<lb/>
                 <add rend=""underline"">Halifax</add></persName> who had it from the<lb/>
               <persName ref=""#Duke_Marlborough""> Duke of <add rend=""underline"">Marlborough</add></persName></p>
@@ -3306,8 +3365,8 @@ Duke of Marlborough,#Duke_Marlborough,29153,['499'],Miscellanies.,EPF108491045,"
             <p>A 
               <material>brasse</material>
               <add rend=""underline"">head</add> three barrels<lb/> of w<hi rend=""sup"">ch</hi>. were
-              left by the French<lb/> when they retired from <placeName>Brussels<lb/></placeName>
-              under the Elector of <placeName>Bavaria<lb/></placeName> shott by them from their
+              left by the French<lb/> when they retired from <placeName ref=""#Brussels"">Brussels<lb/></placeName>
+              under the Elector of <placeName ref=""#Bavaria"">Bavaria<lb/></placeName> shott by them from their
               great<lb/> gunns. Given me by the <persName ref=""#Charles_Montagu""> Lord<lb/>
                 <add rend=""underline"">Halifax</add></persName> who had it from the<lb/>
               <persName ref=""#Duke_Marlborough""> Duke of <add rend=""underline"">Marlborough</add></persName></p>
@@ -3357,7 +3416,7 @@ Coll. Laws,#Colonel_Laws,,['540'],Miscellanies.,EPF108491050,"-540.
             <p>A  by the English <material>leather</material>
               <add rend=""underline"">purse</add> embroidered together<lb/> with the figure of a hand
               in<lb/> horn? fastened to it to be worn<lb/> to prevent <add rend=""underline"">thunder</add> in the mines<lb/> of S<hi rend=""sup"">ta</hi>. Maria near
-                <placeName>Campeche<lb/></placeName> in New Spain taken <lb/>
+                <placeName ref=""#Campeche"">Campeche<lb/></placeName> in New Spain taken <lb/>
               <metamark function=""carets"">of <placeName ref=""#Jamaica"">Jamaica</placeName></metamark> from the<lb/> Spainyards when they
               took those<lb/> mines &amp; given me by <persName ref=""#Colonel_Laws"">Coll.<lb/>
                   <add rend=""underline"">Laws</add></persName>.</p>
@@ -3403,7 +3462,7 @@ Mr. Gore,#Mr_Gore,,['559'],Miscellanies.,EPF108491052,"-559.
               
               25","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-559.</ea:catnum>
-            <p>A medecine for <add rend=""underline"">agues</add> brought from <placeName>E.<lb/>
+            <p>A medecine for <add rend=""underline"">agues</add> brought from <placeName ref=""#East_Indies"">E.<lb/>
                 India</placeName> from a Banian D<hi rend=""sup"">r</hi>. by <persName ref=""#Mr_Gore"">M<hi rend=""sup"">r</hi>. Gore</persName><lb/> 7 graines poudered to be taken 3 mornings<lb/> in a
               Spoonfull of broath, posset drink, or rose water - tryed &amp; proved by M<hi rend=""sup"">r</hi>.</p>
             <p>
@@ -3543,7 +3602,7 @@ Mr. Bernard,#Mr_Bernard,,['580'],Miscellanies.,EPF108491055,"-580.
             <p>A <measure>piece</measure> of a <add rend=""underline"">dish</add>
               <metamark function=""carets"">a target covered w<hi rend=""sup"">t</hi>. <material>gilt
                   leather</material></metamark> taken up out of<lb/> the <metamark function=""carets"">Spainish</metamark> galeon that was Shipwrackd<lb/> in 1588. on the coast of
-                <placeName>Scotland<lb/></placeName> about 100 years after when it<lb/> was covered
+                <placeName ref=""#Scotland"">Scotland<lb/></placeName> about 100 years after when it<lb/> was covered
               in part with a <measure>thin</measure><lb/> crust from the sea water given<lb/> me by
                   <persName ref=""#Mr_Bernard"">M<hi rend=""sup"">r</hi>. Bernard</persName> who had it of </p>
             <gap reason=""illegible""/>
@@ -3617,7 +3676,7 @@ Dr. Brown,#Dr._Brown,,['596'],Miscellanies.,EPF108491059,"-596.
               of vipers &c? Dr.
                 Brown.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-596.</ea:catnum>
-            <p>An <add rend=""underline""><material>oyle</material></add> from <placeName ref=""#Florence"">Florence</placeName> or <placeName>Rome<lb/></placeName> for bitings
+            <p>An <add rend=""underline""><material>oyle</material></add> from <placeName ref=""#Florence"">Florence</placeName> or <placeName ref=""#Rome"">Rome<lb/></placeName> for bitings
               of vipers &amp;c? <persName ref=""#Dr._Brown""><add rend=""underline"">D<hi rend=""sup"">r</hi>.
                 Brown</add></persName>.</p>
             <p>
@@ -4118,7 +4177,7 @@ Hoffsted van Essen,#Hoffsted_van_Essen,96012772,['663'],Miscellanies.,EPF1084910
             
             X","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-663.</ea:catnum>
-            <p>A <placeName> Persian</placeName>
+            <p>A <placeName ref=""#Persia""> Persian</placeName>
               <add rend=""underline"">padlock</add> from <persName ref=""#Hoffsted_van_Essen"">Hoffsted van<lb/>
                 <add rend=""underline"">Essen</add></persName> :</p>
             <p>
@@ -4525,7 +4584,7 @@ Mr. Petiver,#James_Petiver,34799386,['724'],Miscellanies.,EPF108491075,"-724.
               Saccharum</material><lb/> of the oil made <metamark function=""carets"">by the
                 Dutch</metamark> in the <placeName ref=""#East_Indies"">East Indies</placeName>
               <lb/> &amp; brought from thence into
-                <placeName>Holland<lb/></placeName> called oleum Schænanthi. From <persName ref=""#James_Petiver""> M<hi rend=""sup"">r</hi>.<lb/>
+                <placeName ref=""#Holland"">Holland<lb/></placeName> called oleum Schænanthi. From <persName ref=""#James_Petiver""> M<hi rend=""sup"">r</hi>.<lb/>
                 <add rend=""underline"">Petiver</add></persName>.</p>
             <p>
               
@@ -4735,7 +4794,7 @@ Sr. Streynsham Masters,#Sr_Streynsham_Masters,,['811'],Miscellanies.,EPF10849108
                 India princes wt. a seal to it. Given me by the
                 Archbishop of Canterbury.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">811.</ea:catnum>
-            <p><persName ref=""#Sr_Streynsham_Masters""> S<hi rend=""sup"">r</hi>. Streynsham <add rend=""underline"">Masters</add></persName> an English<lb/> Merch<hi rend=""sup"">ts</hi>. <add rend=""underline"">passe</add> or privilege from<lb/> the <placeName> East
+            <p><persName ref=""#Sr_Streynsham_Masters""> S<hi rend=""sup"">r</hi>. Streynsham <add rend=""underline"">Masters</add></persName> an English<lb/> Merch<hi rend=""sup"">ts</hi>. <add rend=""underline"">passe</add> or privilege from<lb/> the <placeName ref=""#East_Indies""> East
                 India</placeName> princes w<hi rend=""sup"">t</hi>. a seal<lb/> to it. Given me by the
                 <persName ref=""#Thomas_Tennison"">Archbishop<lb/> of <add rend=""underline"">Canterbury</add></persName>.</p>
             <p>
@@ -4749,7 +4808,7 @@ Archbishop of Canterbury,#Thomas_Tennison,69084741,['811'],Miscellanies.,EPF1084
                 India princes wt. a seal to it. Given me by the
                 Archbishop of Canterbury.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">811.</ea:catnum>
-            <p><persName ref=""#Sr_Streynsham_Masters""> S<hi rend=""sup"">r</hi>. Streynsham <add rend=""underline"">Masters</add></persName> an English<lb/> Merch<hi rend=""sup"">ts</hi>. <add rend=""underline"">passe</add> or privilege from<lb/> the <placeName> East
+            <p><persName ref=""#Sr_Streynsham_Masters""> S<hi rend=""sup"">r</hi>. Streynsham <add rend=""underline"">Masters</add></persName> an English<lb/> Merch<hi rend=""sup"">ts</hi>. <add rend=""underline"">passe</add> or privilege from<lb/> the <placeName ref=""#East_Indies""> East
                 India</placeName> princes w<hi rend=""sup"">t</hi>. a seal<lb/> to it. Given me by the
                 <persName ref=""#Thomas_Tennison"">Archbishop<lb/> of <add rend=""underline"">Canterbury</add></persName>.</p>
             <p>
@@ -4904,7 +4963,7 @@ Dr. Waldo,#Daniel_Waldo,,['845'],Miscellanies.,EPF108491090,"-845.
                 Waldo -----","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-845.</ea:catnum>
             <p>A <add rend=""underline""><material>feather</material> whisk</add> from
-                <placeName>Suratte<lb/></placeName> 8 by <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>.
+                <placeName ref=""#Suratte"">Suratte<lb/></placeName> 8 by <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>.
                 Waldo</persName> -----</p>
             <p>
               
@@ -4928,7 +4987,7 @@ Mr. Heathcote,#Gilbert_Heathcote,48246577,['847'],Miscellanies.,EPF108491090,"-8
               poyson'd <add rend=""underline"">arrows</add> w<hi rend=""sup"">t</hi>. a<lb/> sword point
               at top from <persName ref=""#Gilbert_Heathcote""> M<hi rend=""sup"">r</hi>.<lb/>
                 <add rend=""underline"">Heathcote</add></persName>. likely from the
-                <placeName>Celebes<lb/></placeName> tip'd w<hi rend=""sup"">t</hi>.
+                <placeName ref=""#Celebes"">Celebes<lb/></placeName> tip'd w<hi rend=""sup"">t</hi>.
                 <material>silver</material></p>
             <p>
               
@@ -5121,7 +5180,7 @@ Mr. Cowper,#Mr._Cowper,,['877'],Miscellanies.,EPF108491094,"-877.
 
 
           "
-Mr. Aston,#Francis_Aston,47145003641961340275,['878'],Miscellanies.,EPF108491095,"-878.
+Mr. Aston,#Francis_Aston,4.7145E+19,['878'],Miscellanies.,EPF108491095,"-878.
             An amber Crucifix of severall
               colours carv'd by given to me by  Mr. Aston.
             
@@ -5172,7 +5231,7 @@ Mr. Gilberts,#Mr_Gilberts,,['888'],Miscellanies.,EPF108491096,"-888.
             <ea:catnum type=""primary"" place=""margin"">-888.</ea:catnum>
             <p>Part of the <add rend=""underline"">sail</add> of the Montague<lb/>
               <measure type=""shape"">knotted</measure> together by a storme on<lb/> the 10<hi rend=""sup"">th</hi>. of Nov 1708 in 13<hi rend=""sup"">°</hi>. 7'.<lb/> Lat. North. on
-              the coast of <placeName>India</placeName>.<lb/> Given me by <persName ref=""#Mr_Gilberts"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Gilberts</add></persName>.</p>
+              the coast of <placeName ref=""#India"">India</placeName>.<lb/> Given me by <persName ref=""#Mr_Gilberts"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Gilberts</add></persName>.</p>
             <p>
               
             </p>
@@ -5189,7 +5248,7 @@ Dr. Lister,#Martin_Lister,100199531,['896'],Miscellanies.,EPF108491097,"-896.
               20. O.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-896.</ea:catnum>
             <p>A <add rend=""underline"">necklace</add> of <measure type=""sizeWeight"">small</measure>
-              <material>canna <placeName>India<lb/></placeName> seeds</material>. From 
+              <material>canna <placeName ref=""#India"">India<lb/></placeName> seeds</material>. From 
               <persName ref=""#Martin_Lister"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Lister</add></persName>.</p>
             <p>
               
@@ -5214,7 +5273,7 @@ Wm. Lord Cowper,#William_Cowper2,1562998,['897'],Miscellanies.,EPF108491097,"-89
           </div3>
 
           "
-Earl of Oxford ,#Robert_Harley,25397613,['897'],Miscellanies.,EPF108491097,"-897.
+Earl of Oxford ,,,['897'],Miscellanies.,EPF108491097,"-897.
             Part of the broken staff of  Wm. Lord Cowper when created Lord
               - High Steward for tryall of the
                Earl of Oxford
@@ -5255,7 +5314,7 @@ Albertus Seba,#Albertus_Seba,5113867,['900'],Miscellanies.,EPF108491097,"-900.
             <ea:catnum type=""primary"" place=""margin"">-900.</ea:catnum>
             <p><add rend=""underline""><material>Oleum</material></add> Squinanth. Ind. From <lb/>
               <persName ref=""#Albertus_Seba""> Albertus <add rend=""underline"">Seba</add></persName> Chymist in
-                <placeName>Amster= <lb/> dam</placeName>. Zÿ Z<gap reason=""illegible""/> Zÿ ---}
+                <placeName ref=""#Amsterdam"">Amster= <lb/> dam</placeName>. Zÿ Z<gap reason=""illegible""/> Zÿ ---}
                 <note type=""value"">0. 13. 0.</note></p>
             <p>
               
@@ -5436,11 +5495,7 @@ Mr. Moults,#Mr._Moults,,['915*'],Miscellanies.,EPF108491099,"-915. *
           </div3>
 
           "
-Mr. Stallwood,#Mr_Stallwood,,['916*'],Miscellanies.,EPF108491099,"-916. *
-            The hind  a part of head
-               in white
-              alabaster found in the ruines of Whitehall given me by
-              Mr. Stallwood.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+Mr. Stallwood,#Mr_Stallwood,,['916*'],Miscellanies.,EPF108491099,#NAME?,"<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-916. *</ea:catnum>
             <p>The hind  a <measure>part</measure> of <add rend=""underline"">head</add>
               <lb/> in <note type=""colour"">white</note>
@@ -5465,11 +5520,7 @@ Pet,#James_Petiver,34799386,['917*'],Miscellanies.,EPF108491099,"-917. *
           </div3>
 
           "
-Mr. Johnson,#Mr_Johnson,41722742 ,['919*'],Miscellanies.,EPF108491100,"-919. * 
-            A china
-              quadrangular
-              stand 
-              Mr. Johnson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+Mr. Johnson,#Mr_Johnson,41722742,['919*'],Miscellanies.,EPF108491100,#NAME?,"<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-919. * </ea:catnum>
             <p>A <add rend=""underline"">china</add>
               <measure type=""shape"">quadrangular</measure>
@@ -5537,7 +5588,7 @@ Ld Cadogan,#Charles_Cadogan,41706359,['970'],Miscellanies.,EPF108491103,"-970.
             <p>A Bowl, A <add rend=""underline"">tea</add> pott, 7 saucers<lb/> 6 cups, a sugar dish
               &amp; cover <metamark function=""carets"">&amp; tea canister.</metamark> all<lb/> made
               of <material>past board &amp; paper</material><lb/> painted upon to imitate China<lb/>
-              ware made by a Dutchman<lb/> who lived in <placeName>Japan</placeName>. given me by
+              ware made by a Dutchman<lb/> who lived in <placeName ref=""#Japan"">Japan</placeName>. given me by
                 <persName ref=""#Charles_Cadogan"">L<hi rend=""sup"">d</hi>
                 <add rend=""underline"">Cadogan</add></persName>. X</p>
             <p>
@@ -5688,7 +5739,7 @@ Pet,#James_Petiver,34799386,['989'],Miscellanies.,EPF108491105,"-989.
           </div3>
 
           "
-Bagford,#John_Bagford,53999086 ,['993'],Miscellanies.,EPF108491105,"-993.
+Bagford,#John_Bagford,53999086,['993'],Miscellanies.,EPF108491105,"-993.
             A ruler for writing? Bagford
               
                 Pet.
@@ -5764,7 +5815,7 @@ Pet,#James_Petiver,34799386,['1003'],Miscellanies.,EPF108491106,"-1003.
           </div3>
 
           "
-Symmonds,#Thomas_Simon, 96593406,['1005'],Miscellanies.,EPF108491106,"-1005.
+Symmonds,#Thomas_Simon,96593406,['1005'],Miscellanies.,EPF108491106,"-1005.
             A figure of a boy with one
               hand  extended, cutt in box by Symmonds not quite finished-----} -1. 10. 0.
             
@@ -5818,7 +5869,7 @@ Mrs. Byde,#Mrs_Byde,,['1011'],Miscellanies.,EPF108491107,"-1011.
           </div3>
 
           "
-Dr. Slare,#Frederick_Slare,120836054 ,['1012'],Miscellanies.,EPF108491107,"-1012.
+Dr. Slare,#Frederick_Slare,120836054,['1012'],Miscellanies.,EPF108491107,"-1012.
             The  in
                 figure of a man sitting on a deaths head wt. his hands lifted up &c. white
               amber given me by 
@@ -5884,7 +5935,7 @@ prince of Hesses,#Prince_of_Hesse,37977693,['1022'],Miscellanies.,EPF108491107,"
               a <add rend=""underline""><material>stone</material> &amp;</add> stick<lb/> w<hi rend=""sup"">t</hi>. the tincture of the <persName ref=""#Prince_of_Hesse"">prince <add rend=""underline"">of
                   Hesses</add></persName> , <material>blood</material><lb/> being taken from the
               seat where he bled to death sent me from Bradyll<lb/> in
-                <placeName> Gibraltar</placeName> the 13. of Dec. 1705. <persName ref=""#John_Conduitt"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Conduit</add></persName>.</p>
+                <placeName ref=""#Gibraltar""> Gibraltar</placeName> the 13. of Dec. 1705. <persName ref=""#John_Conduitt"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Conduit</add></persName>.</p>
             <p>
               
               <add rend=""red"">20 m</add>
@@ -5909,7 +5960,7 @@ Mr. Conduit,#John_Conduitt,61863710,['1022'],Miscellanies.,EPF108491107,"-1022.
               a <add rend=""underline""><material>stone</material> &amp;</add> stick<lb/> w<hi rend=""sup"">t</hi>. the tincture of the <persName ref=""#Prince_of_Hesse"">prince <add rend=""underline"">of
                   Hesses</add></persName> , <material>blood</material><lb/> being taken from the
               seat where he bled to death sent me from Bradyll<lb/> in
-                <placeName> Gibraltar</placeName> the 13. of Dec. 1705. <persName ref=""#John_Conduitt"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Conduit</add></persName>.</p>
+                <placeName ref=""#Gibraltar""> Gibraltar</placeName> the 13. of Dec. 1705. <persName ref=""#John_Conduitt"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Conduit</add></persName>.</p>
             <p>
               
               <add rend=""red"">20 m</add>
@@ -5932,7 +5983,7 @@ Baron Botmar,#Baron_Botmar,805877,['1026'],Miscellanies.,EPF108491108,"-1026.
             <ea:catnum type=""primary"" place=""margin"">-1026.</ea:catnum>
             <p>A <add rend=""underline"">candlestick</add> said to be taken out<lb/> of the midle of a
                 <measure type=""sizeWeight"">large</measure>
-              <placeName>Newcastle<lb/></placeName> sea coalier perhaps only dropt in<lb/> the Ship
+              <placeName ref=""#Newcastle"">Newcastle<lb/></placeName> sea coalier perhaps only dropt in<lb/> the Ship
               given me by <persName ref=""#Baron_Botmar""> Baron<lb/>
                 <add rend=""underline"">Botmar</add></persName>.</p>
             <p>
@@ -5949,7 +6000,7 @@ Dr. Steigertahl,#Johann_Georg_Steigertahl,42692762,['1028'],Miscellanies.,EPF108
               
               19 k","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1028.</ea:catnum>
-            <p><add rend=""underline"">Butyrum rosarum</add> from <placeName>Florence<lb/></placeName>
+            <p><add rend=""underline"">Butyrum rosarum</add> from <placeName ref=""#Florence"">Florence<lb/></placeName>
               by <persName ref=""#Johann_Georg_Steigertahl""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Steigertahl</add></persName>.</p>
             <p>
               
@@ -5981,12 +6032,12 @@ Duke of Chandois,#Duke_of_Chandos,25708606,['1031'],Miscellanies.,EPF108491108,"
                 <placeName ref=""#Guinea"">Guinea</placeName>. <metamark function=""carets"">This I
                 believe is a substance from the <persName ref=""#Duke_of_Chandos"">Duke of Chandois</persName>
                 called</metamark> Unguentum Encoo or the <note type=""colour"">white</note> balsam is
-              the ex=<lb/> =croscence of a tree growing in the country <placeName>Entau</placeName>
-              lying six days<lb/> journey inland from <placeName>Ashanta</placeName> being to the
-              Eastward, it is also to be<lb/> procured at <placeName>Agrafee</placeName><lb/> &amp;
+              the ex=<lb/> =croscence of a tree growing in the country <placeName ref=""#Entau"">Entau</placeName>
+              lying six days<lb/> journey inland from <placeName ref=""#Ashante"">Ashanta</placeName> being to the
+              Eastward, it is also to be<lb/> procured at <placeName ref=""#Agrafee"">Agrafee</placeName><lb/> &amp;
                 <placeName ref=""#Creepu"">Creepu</placeName> Countrys to<lb/> the Eastward of the<lb/>
               <placeName ref=""#River_Voller"">river Voller</placeName> &amp; likewise<lb/> at
-                <placeName ref=""#Whidgah"">Whidgah</placeName> the blacks<lb/> make use of this ointm
+                <placeName ref=""#Whydah"">Whidgah</placeName> the blacks<lb/> make use of this ointm
                 <hi rend=""sup"">t</hi>.<lb/> in anoint themselves. in<lb/> place of tallow being<lb/>
               much preferable those <gap reason=""illegible""> </gap> &amp; is extream good for
               all<lb/> manner of aches pains <lb/> &amp; sores. </p>
@@ -6149,7 +6200,7 @@ Mr. Yale,#Elihu_Yale,46310522,['1042'],Miscellanies.,EPF108491110,"-1042.
           </div3>
 
           "
-Dr. Houston,#Robert_Houston,299149294141680521071,['1044'],Miscellanies.,EPF108491110,"-1044.
+Dr. Houston,#Robert_Houston,2.99149E+20,['1044'],Miscellanies.,EPF108491110,"-1044.
             A Chinese compasse from  Dr. Houston. 
               a box. with black rim & Chinese words
                 in the middle D. 3in
@@ -6249,7 +6300,7 @@ Dr. Steigertahl,#Johann_Georg_Steigertahl,42692762,['1072'],Miscellanies.,EPF108
             <ea:catnum type=""primary"" place=""margin"">-1072.</ea:catnum>
             <p>A <material>Musseline</material>
               <add rend=""underline"">shift</add> without a seam wove<lb/> in
-                <placeName>Japan</placeName>. <abbr>Id.</abbr> Given me by <persName ref=""#Johann_Georg_Steigertahl""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Steigertahl</add></persName>.</p>
+                <placeName ref=""#Japan"">Japan</placeName>. <abbr>Id.</abbr> Given me by <persName ref=""#Johann_Georg_Steigertahl""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Steigertahl</add></persName>.</p>
             <p>
               
               <add rend=""red"">20 O</add>
@@ -6533,7 +6584,7 @@ Dr. Covell,#John_Covel,46920668,['1126'],Miscellanies.,EPF108491115,"-1126.
               ann. 1678. From  Dr. Covell.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1126.</ea:catnum>
             <p>A <add rend=""underline"">rosary</add> of <material>Silkworms gutts</material>. <add rend=""underline"">Roses</add> , a <add rend=""underline"">ring</add><lb/> &amp;c. made
-              of <material>silkworms gutts</material>. From <placeName>Calabria<lb/></placeName>
+              of <material>silkworms gutts</material>. From <placeName ref=""#Calabria"">Calabria<lb/></placeName>
               ann. 1678. From <persName ref=""#John_Covel""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Covell</add></persName>.</p>
             <p>
               
@@ -6635,10 +6686,10 @@ Dr. Kempfer,#Dr._Kempfer,41858358,['1139'],Miscellanies.,EPF108491115,"-1139.
             <ea:catnum type=""primary"" place=""margin"">-1139.</ea:catnum>
             <p>A sheet of  being 18
               or 20 ells of<add rend=""underline""><material>paper</material></add> from
-                <placeName>Japan</placeName> of a <note type=""colour"">redish</note>
+                <placeName ref=""#Japan"">Japan</placeName> of a <note type=""colour"">redish</note>
               <note type=""colour"">brown</note> colour<lb/> w<hi rend=""sup"">t</hi>. <note type=""colour"">white</note>
               <measure type=""sizeWeight"">small</measure> flowrs <lb/>
-              <placeName>Japan</placeName>
+              <placeName ref=""#Japan"">Japan</placeName>
               <metamark function=""carets"">Long</metamark> &amp; one broad. From <persName ref=""#Dr._Kempfer""> D<hi rend=""sup"">r</hi>. Kempfer</persName>.</p>
             <p>
               
@@ -6660,7 +6711,7 @@ Dr. Kempfer,#Dr._Kempfer,41858358,['1142'],Miscellanies.,EPF108491116,"-1142.
             <ea:catnum type=""primary"" place=""margin"">-1142.</ea:catnum>
             <p>A <add rend=""underline"">cup</add> of <material>rhinoceros horn</material> carvd &amp;
                 <material>gilded</material> from<lb/>
-              <placeName>Japan</placeName> from <persName ref=""#Dr._Kempfer""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Kempfer</add></persName>.</p>
+              <placeName ref=""#Japan"">Japan</placeName> from <persName ref=""#Dr._Kempfer""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Kempfer</add></persName>.</p>
             <p>
               
               <gap reason=""illegible""/>
@@ -6761,7 +6812,7 @@ Mr. Franklin,#Benjamin_Franklin,56609913,['1202'],Miscellanies.,EPF108491119,"-1
             <ea:catnum type=""primary"" place=""margin"">-1202.</ea:catnum>
             <p>A <note type=""colour"">red</note>
               <add rend=""underline""><material>liquor</material></add> used by the Indians in
-                <placeName>New England<lb/></placeName> for curing dropsys, likely to be from the
+                <placeName ref=""#New_England"">New England<lb/></placeName> for curing dropsys, likely to be from the
               fruit of the<lb/>
               <material>solanum bacciferum racemosum</material>. Given me by <persName ref=""#Benjamin_Franklin"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Franklin</add></persName>.</p>
             <p>
@@ -6849,7 +6900,7 @@ Mr. Hennepin,#Mr._Hennepin,,['1215'],Miscellanies.,EPF108491120,"-1215.
           </div3>
 
           "
-Coll. Nicholson,#Francis_Nicholson,48221764 ,['1218'],Miscellanies.,EPF108491121,"-1218.
+Coll. Nicholson,#Francis_Nicholson,48221764,['1218'],Miscellanies.,EPF108491121,"-1218.
             A large
               Carolina
               basket made by the Indians of
@@ -6877,7 +6928,7 @@ Coll. Nicholson,#Francis_Nicholson,48221764 ,['1218'],Miscellanies.,EPF108491121
           </div3>
 
           "
-Dr. Houston,#Robert_Houston,299149294141680521071,['1232'],Miscellanies.,EPF108491122,"-1232.
+Dr. Houston,#Robert_Houston,2.99149E+20,['1232'],Miscellanies.,EPF108491122,"-1232.
             A Instrument
               machine invented in the Highlands of Scotland where by the
               two thumbs are putt in the stocks & kept so by a padlock. Given me by  Dr.
@@ -6889,7 +6940,7 @@ Dr. Houston,#Robert_Houston,299149294141680521071,['1232'],Miscellanies.,EPF1084
             XX","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1232.</ea:catnum>
             <p>A <metamark function=""carets""><add rend=""underline"">Instrument</add></metamark>
-              machine invented in the Highlands of <placeName>Scotland<lb/></placeName> where by the
+              machine invented in the Highlands of <placeName ref=""#Scotland"">Scotland<lb/></placeName> where by the
               two thumbs are putt in the stocks<lb/> &amp; kept so by a <add rend=""underline"">padlock</add>. Given me by <persName ref=""#Robert_Houston""> D<hi rend=""sup"">r</hi>.<lb/>
                 <add rend=""underline"">Houston</add></persName></p>
             <p>
@@ -6914,7 +6965,7 @@ Mr. Theobalds,#James_Theobalds_Esqr,51253882,['1236'],Miscellanies.,EPF108491122
           </div3>
 
           "
-Coll. Nicholson,#Francis_Nicholson,48221764 ,['1237'],Miscellanies.,EPF108491122,"-1237.
+Coll. Nicholson,#Francis_Nicholson,48221764,['1237'],Miscellanies.,EPF108491122,"-1237.
             A  in theirMaracca or rattle of a
                   gourd made use of by the
               Indians of Carolina
@@ -6964,7 +7015,7 @@ Dr. Kempfer,#Dr._Kempfer,41858358,['1239'],Miscellanies.,EPF108491122,"-1239.
             <p>Very <measure type=""sizeWeight"">large</measure>
               <measure type=""sizeWeight"">thin</measure>
               <material><add rend=""underline"">paper</add></material> from
-                <placeName>Japan<lb/></placeName> by <persName ref=""#Dr._Kempfer"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Kempfer</add></persName>.</p>
+                <placeName ref=""#Japan"">Japan<lb/></placeName> by <persName ref=""#Dr._Kempfer"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Kempfer</add></persName>.</p>
             <p>
               
               <add rend=""red"">24 ?</add>
@@ -7031,7 +7082,7 @@ Mr. Campbell,#Mr._Campbell,,['1257'],Miscellanies.,EPF108491123,"-1257.
             <ea:catnum type=""primary"" place=""margin"">-1257.</ea:catnum>
             <p>A <add rend=""underline"">sapo</add> made of <material>palm oil</material> &amp;
                 <material>wood ashes</material><lb/> in the Island of S<hi rend=""sup"">t</hi>. Thomas
-              upon the coast<lb/> of <placeName ref=""#Africa"">Africa</placeName> by <persName ref=""#Mr._Campbell"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Campbell</add></persName></p>.
+              upon the coast<lb/> of <placeName ref=""#Africa"">Africa</placeName> by <persName ref=""#Mr._Campbell"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Campbell</add></persName>.</p>
           </div3>
 
           "
@@ -7127,7 +7178,7 @@ Mr. Skinner,#Mr_Skinner,,['1281'],Miscellanies.,EPF108491125,"-1281.
               burialls from  Mr. Lockyer.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1281.</ea:catnum>
             <p>A <placeName ref=""#China"">China</placeName> tomb <add rend=""underline"">stone</add>
-              taken of a grave at <placeName>Vampo</placeName><lb/> by <persName ref=""#Mr_Skinner"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Skinner</add></persName> where were
+              taken of a grave at <placeName ref=""#Vampo"">Vampo</placeName><lb/> by <persName ref=""#Mr_Skinner"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Skinner</add></persName> where were
                 <measure>many</measure> hundreds in the<lb/> same form. Vampo is a <measure type=""sizeWeight"">small</measure> town or village in the<lb/> river of <placeName ref=""#Canton"">Canton</placeName> or Quantung. It lay <measure type=""shape"">flatt</measure> on the<lb/> grave w<hi rend=""sup"">t</hi>. the writing upwards. The
               grave was in<lb/> the form of a hillock &amp; this inscription was placed<lb/> on the
               top of it. It seems to be the form used by the<lb/> Comon people in that
@@ -7139,7 +7190,7 @@ Mr. Skinner,#Mr_Skinner,,['1281'],Miscellanies.,EPF108491125,"-1281.
           </div3>
 
           "
-Mr. Lockyer,#Charles_Lockyer,587152636061920051255 ,['1281'],Miscellanies.,EPF108491125,"-1281.
+Mr. Lockyer,#Charles_Lockyer,5.87153E+20,['1281'],Miscellanies.,EPF108491125,"-1281.
             A China tomb stone
               taken of a grave at Vampo by Mr. Skinner where were
                 many hundreds in the same form. Vampo is a small town or village in the river of Canton or Quantung. It lay flatt on the grave wt. the writing upwards. The
@@ -7149,7 +7200,7 @@ Mr. Lockyer,#Charles_Lockyer,587152636061920051255 ,['1281'],Miscellanies.,EPF10
               burialls from  Mr. Lockyer.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1281.</ea:catnum>
             <p>A <placeName ref=""#China"">China</placeName> tomb <add rend=""underline"">stone</add>
-              taken of a grave at <placeName>Vampo</placeName><lb/> by <persName ref=""#Mr_Skinner"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Skinner</add></persName> where were
+              taken of a grave at <placeName ref=""#Vampo"">Vampo</placeName><lb/> by <persName ref=""#Mr_Skinner"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Skinner</add></persName> where were
                 <measure>many</measure> hundreds in the<lb/> same form. Vampo is a <measure type=""sizeWeight"">small</measure> town or village in the<lb/> river of <placeName ref=""#Canton"">Canton</placeName> or Quantung. It lay <measure type=""shape"">flatt</measure> on the<lb/> grave w<hi rend=""sup"">t</hi>. the writing upwards. The
               grave was in<lb/> the form of a hillock &amp; this inscription was placed<lb/> on the
               top of it. It seems to be the form used by the<lb/> Comon people in that
@@ -7190,7 +7241,7 @@ Mr. Elking,#Mr_Elking,,['1332'],Miscellanies.,EPF108491128,"-1332.
                 Straits made of Seal Skin. from 
               Mr. Elking.  Tis a womans coat. wth a Mask or Cover for ye face of ye same skin.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1332.</ea:catnum>
-            <p>The <add rend=""underline"">coat</add> of an Indian from <placeName>Davies's
+            <p>The <add rend=""underline"">coat</add> of an Indian from <placeName ref=""#Davis_Strait"">Davies's
                 Straits</placeName> made<lb/> of <material>Seal Skin</material>. from 
               <persName ref=""#Mr_Elking"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Elking</add></persName>. <add hand=""shift""> Tis a womans<lb/> coat. w<hi rend=""sup"">th</hi> a <add rend=""underline"">Mask</add> or Cover for y<hi rend=""sup"">e</hi> face of y<hi rend=""sup"">e</hi> same skin.</add></p>
           </div3>
@@ -7253,7 +7304,7 @@ Dr. Burnett,#Dr_Burnett,,['1344'],Miscellanies.,EPF108491128,"-1344.
               28. b","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1344.</ea:catnum>
             <p>The <add rend=""underline"">head</add> of an Indian <add rend=""underline"">dart</add>
-              from <placeName>Carthayener<lb/> in America</placeName>. It is made of the
+              from <placeName ref=""#Cartagena"">Carthayener<lb/> in America</placeName>. It is made of the
                 <material>Bezyll</material> or <note type=""colour"">duskish</note>
               <lb/> coloured <material>Chrystall</material>. from <persName ref=""#Dr_Burnett"">D<hi rend=""sup"">r</hi>.
                   <add rend=""underline"">Burnett</add></persName>.</p>
@@ -7357,7 +7408,7 @@ Mr. Clerk,#Mr._Clerk,,['1368'],Miscellanies.,EPF108491130,"-1368.
             <p>An Indian <add rend=""underline"">drum</add> made of a <material>hollowed
                 tree</material> carv'd<lb/> the top being brac'd w<hi rend=""sup"">t</hi>. peggs &amp;
               thongs w<hi rend=""sup"">t</hi>. the<lb/> bottom <measure type=""shape"">hollow</measure>
-              from <placeName>Virginia</placeName> by <persName ref=""#Mr._Clerk"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Clerk</add></persName>.</p>
+              from <placeName ref=""#Virginia"">Virginia</placeName> by <persName ref=""#Mr._Clerk"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Clerk</add></persName>.</p>
             <p>
               
               <gap reason=""illegible""/>
@@ -7393,7 +7444,7 @@ Mr. Clerk,#Mr._Clerk,,['1373'],Miscellanies.,EPF108491130,"-1373.
               A.W.F. 1853.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1373.</ea:catnum>
             <p>The head of an <add rend=""underline"">arrow</add> of <material>chrystall</material>
-              from <placeName>Virginia<lb/></placeName>
+              from <placeName ref=""#Virginia"">Virginia<lb/></placeName>
               <persName ref=""#Mr._Clerk"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Clerk</add></persName>.</p>
             <p>
               
@@ -7429,7 +7480,7 @@ Mr. Bell,#Mr._Bell,,['1383'],Miscellanies.,EPF108491130,"-1383.
               25","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1383.</ea:catnum>
             <p><add rend=""underline""><material>Tobacco</material></add> rolld up in <add rend=""underline""><material>plantain</material></add> leaves to be smok'd from
-                <placeName>Malacca<lb/></placeName> by <persName ref=""#Mr._Bell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Bell</add></persName>.</p>
+                <placeName ref=""#Malacca"">Malacca<lb/></placeName> by <persName ref=""#Mr._Bell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Bell</add></persName>.</p>
             <p>
               
               <add rend=""red"">25</add>
@@ -7443,7 +7494,7 @@ Mr. Elking,#Mr_Elking,,['1385'],Miscellanies.,EPF108491130,"-1385.
                 straits from Mr. Elking.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1385.</ea:catnum>
             <p>A <add rend=""underline"">shirt</add> made of <material>gutts</material> &amp; sowed
-                w<hi rend=""sup"">t</hi>. <material>sinews</material> from <placeName>Davis's
+                w<hi rend=""sup"">t</hi>. <material>sinews</material> from <placeName ref=""#Davis_Strait"">Davis's
                 straits<lb/></placeName> from <persName ref=""#Mr_Elking"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Elking</add></persName>.</p>
           </div3>
 
@@ -7452,7 +7503,7 @@ Mr. Clerk,#Mr._Clerk,,['1387'],Miscellanies.,EPF108491131,"-1387.
             A tobacco pipe from Virginia by
                   Mr. Clerk.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1387.</ea:catnum>
-            <p>A <add rend=""underline"">tobacco pipe</add> from <placeName>Virginia</placeName> by
+            <p>A <add rend=""underline"">tobacco pipe</add> from <placeName ref=""#Virginia"">Virginia</placeName> by
                   <persName ref=""#Mr._Clerk"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Clerk</add></persName>.</p>
             <p>
               
@@ -7543,7 +7594,7 @@ Mr. Lyell,#Mr_Lyell,,['1422'],Miscellanies.,EPF108491132,"-1422.
                   Mr.
                 Lyell.  ( ship. )","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1422.</ea:catnum>
-            <p>An <placeName>East India</placeName>
+            <p>An <placeName ref=""#East_Indies"">East India</placeName>
               <add rend=""underline"">gally</add> made of <material>cloves</material> given me by
                   <persName ref=""#Mr_Lyell"">M<hi rend=""sup"">r</hi>.<lb/>
                 <add rend=""underline"">Lyell</add></persName>. <add hand=""shift""> ( <add rend=""underline"">ship.</add> )</add></p>
@@ -7717,7 +7768,7 @@ Mr. Standish,#Mr_Standish,,['1458'],Miscellanies.,EPF108491133,"-1458.
                   Carolina by Mr.
                   Standish.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1458.</ea:catnum>
-            <p>A negro <add rend=""underline"">drum</add> from <placeName>S.
+            <p>A negro <add rend=""underline"">drum</add> from <placeName ref=""#South_Carolina"">S.
                   Carolina</placeName> by <persName ref=""#Mr_Standish"">M<hi rend=""sup"">r</hi>.
                   <add rend=""underline"">Standish</add></persName>.</p>
             <p>
@@ -7865,7 +7916,7 @@ Dr. Waldo,#Daniel_Waldo,,['1487'],Miscellanies.,EPF108491134,"-1487.
               28. b.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1487.</ea:catnum>
             <p>A bambo cane made into a <add rend=""underline"">brush</add> by the Indians from
-                <placeName>fort S<hi rend=""sup"">t</hi>.<lb/> George</placeName> by <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName>.</p>
+                <placeName ref=""#Fort_George"">fort S<hi rend=""sup"">t</hi>.<lb/> George</placeName> by <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName>.</p>
             <p>
               
               <add rend=""red"">28. b.</add>
@@ -7886,7 +7937,7 @@ Mr. Jones,#Mr._Jones,,['1491'],Miscellanies.,EPF108491135,"-1491.
             <p>A <add rend=""underline""><material>gourd</material></add> or
                 <material>calabash</material> made into a <add rend=""underline"">bowl</add> painted
                 <note type=""colour"">yellow</note> in the<lb/> inside &amp; of various colours on the
-              outside from <placeName>America<lb/></placeName> by <persName ref=""#Mr._Jones"">M<hi rend=""sup"">r</hi>.
+              outside from <placeName ref=""#America"">America<lb/></placeName> by <persName ref=""#Mr._Jones"">M<hi rend=""sup"">r</hi>.
                 Jones</persName>. </p>
             <p>
               
@@ -7965,7 +8016,7 @@ Mr. Maidston,#Mr_Maidstone,,['1512'],Miscellanies.,EPF108491136,"-1512.
           </div3>
 
           "
-Q. Anne,#Queen_Anne,805714 ,['1535'],Miscellanies.,EPF108491136,"-1535.
+Q. Anne,#Queen_Anne,805714,['1535'],Miscellanies.,EPF108491136,"-1535.
             Ropes to tye prisoners wt. there left
               by the Kings who came from America to
                  Q. Anne. Id.
@@ -7989,7 +8040,7 @@ Mr. Southwell,#Robert_Southwell,51758315,['1537'],Miscellanies.,EPF108491137,"-1
               Vegetables no. 2310*","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1537.</ea:catnum>
             <p>A rope made of <material>underground firr wood</material> in
-                <placeName>Ireland<lb/></placeName> such as I had from <persName ref=""#Robert_Southwell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Southwell</add></persName> ? from <persName ref=""#Mr_Maidstone, Mr._Maidstone"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maidstone</add></persName>.<lb/> vide
+                <placeName ref=""#Ireland"">Ireland<lb/></placeName> such as I had from <persName ref=""#Robert_Southwell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Southwell</add></persName> ? from <persName ref=""#Mr_Maidstone, Mr._Maidstone"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maidstone</add></persName>.<lb/> vide
               Vegetables n<hi rend=""sup"">o</hi>. 2310*</p>
             <p>
               
@@ -8003,7 +8054,7 @@ Mr. Maidstone,#Mr._Maidstone,,['1537'],Miscellanies.,EPF108491137,"-1537.
               Vegetables no. 2310*","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1537.</ea:catnum>
             <p>A rope made of <material>underground firr wood</material> in
-                <placeName>Ireland<lb/></placeName> such as I had from <persName ref=""#Robert_Southwell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Southwell</add></persName> ? from <persName ref=""#Mr_Maidstone, Mr._Maidstone"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maidstone</add></persName>.<lb/> vide
+                <placeName ref=""#Ireland"">Ireland<lb/></placeName> such as I had from <persName ref=""#Robert_Southwell""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Southwell</add></persName> ? from <persName ref=""#Mr_Maidstone, Mr._Maidstone"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maidstone</add></persName>.<lb/> vide
               Vegetables n<hi rend=""sup"">o</hi>. 2310*</p>
             <p>
               
@@ -8052,7 +8103,7 @@ Mr. Woolhouse,#John_Thomas_Woolhouse,47114781,['1550'],Miscellanies.,EPF10849113
               
               67 E","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1550</ea:catnum>
-            <p> to cure the gout from<add rend=""underline"">Drops</add> from <placeName>Paris </placeName>pretended <lb/>
+            <p> to cure the gout from<add rend=""underline"">Drops</add> from <placeName ref=""#Paris"">Paris </placeName>pretended <lb/>
               <persName ref=""#John_Thomas_Woolhouse""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Woolhouse</add></persName>.</p>
             <p>
               
@@ -8089,7 +8140,7 @@ Dr. Battely,#Dr_Battely,,['1554'],Miscellanies.,EPF108491138,"-1554.
             <ea:catnum type=""primary"" place=""margin"">-1554.</ea:catnum>
             <p>The pieces of a <add rend=""underline"">scull</add> w<hi rend=""sup"">t</hi>. 2 horses
               teeth from digging<lb/> deep ab<hi rend=""sup"">t</hi>. the choir in
-                <placeName>Westminster</placeName> abby kept by<lb/>
+                <placeName ref=""#Westminster"">Westminster</placeName> abby kept by<lb/>
               <persName ref=""#Dr_Battely"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Battely</add></persName> &amp;
               given me by <persName ref=""#Mr_Nichols"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Nichols</add></persName>.</p>
             <p>
@@ -8111,7 +8162,7 @@ Mr. Nichols,#Mr_Nichols,,['1554'],Miscellanies.,EPF108491138,"-1554.
             <ea:catnum type=""primary"" place=""margin"">-1554.</ea:catnum>
             <p>The pieces of a <add rend=""underline"">scull</add> w<hi rend=""sup"">t</hi>. 2 horses
               teeth from digging<lb/> deep ab<hi rend=""sup"">t</hi>. the choir in
-                <placeName>Westminster</placeName> abby kept by<lb/>
+                <placeName ref=""#Westminster"">Westminster</placeName> abby kept by<lb/>
               <persName ref=""#Dr_Battely"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Battely</add></persName> &amp;
               given me by <persName ref=""#Mr_Nichols"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Nichols</add></persName>.</p>
             <p>
@@ -8273,7 +8324,7 @@ Governr. Jennings,#Governr_Jennings,,['1588'],Miscellanies.,EPF108491140,"-1588.
               25
               X","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1588.</ea:catnum>
-            <p><metamark function=""carets"">The model of</metamark> A <add rend=""underline"">palankin</add> such as is used in the <placeName>East Indies<lb/></placeName> to be
+            <p><metamark function=""carets"">The model of</metamark> A <add rend=""underline"">palankin</add> such as is used in the <placeName ref=""#East_Indies"">East Indies<lb/></placeName> to be
               carried on mens shoulders for the conveyance<lb/> of perons of quality given me by
                   <persName ref=""#Governr_Jennings"">Govern<hi rend=""sup"">r</hi>. <add rend=""underline"">Jennings</add></persName>.</p>
             <p>
@@ -8297,7 +8348,7 @@ Ericus Benzelius,#Erik_Benzelius,9857012,['1589'],Miscellanies.,EPF108491140,"-1
             28 D.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1589.</ea:catnum>
             <p><add rend=""underline"">Bread</add> used in the highlands between
-                <placeName>Sweden<lb/></placeName> &amp; <placeName ref=""#Norway"">Norway</placeName>. It is made of <material>pine</material> &amp; <material>firr
+                <placeName ref=""#Sweden"">Sweden<lb/></placeName> &amp; <placeName ref=""#Norway"">Norway</placeName>. It is made of <material>pine</material> &amp; <material>firr
                 bark</material> with<lb/> mash &amp; a root called <material>quick root</material>
               sent me by<lb/>
               <persName ref=""#Erik_Benzelius""> Ericus <add rend=""underline"">Benzelius</add></persName> Bp of Gottenburg
@@ -8311,7 +8362,7 @@ Ericus Benzelius,#Erik_Benzelius,9857012,['1589'],Miscellanies.,EPF108491140,"-1
           </div3>
 
           "
-Mr. Houstoun,#William_Houstoun, 35393071,['1590'],Miscellanies.,EPF108491140,"-1590.
+Mr. Houstoun,#William_Houstoun,35393071,['1590'],Miscellanies.,EPF108491140,"-1590.
             Earthen ware bakd by the sun by the Indians at
                 America. By  Mr.
                 Houstoun.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
@@ -8332,7 +8383,7 @@ Mr. Maidstone,#Mr._Maidstone,,['1592'],Miscellanies.,EPF108491140,"-1592.
               
               24 P","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1592.</ea:catnum>
-            <p><placeName>Japan</placeName>
+            <p><placeName ref=""#Japan"">Japan</placeName>
               <add rend=""underline"">ink</add> from <persName ref=""#Mr_Maidstone, Mr._Maidstone"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maidstone</add></persName></p>
             <p>
               
@@ -8539,7 +8590,7 @@ Duke of Newcastle,#Duke_of_Newcastle,5017560,['1635 & 1636'],Miscellanies.,EPF10
 
 
           "
-Dr. Grews,#Nehemiah_Grew,72195733 ,['1635'],Miscellanies.,EPF108491143,"-1635
+Dr. Grews,#Nehemiah_Grew,72195733,['1635'],Miscellanies.,EPF108491143,"-1635
             Substances remaining from Experiments of  Dr. Grews made wt. the
               German water sent him by his grace the Duke
                 of Newcastle.  (vid mineral
@@ -8571,7 +8622,7 @@ Duke of Newcastle,#Duke_of_Newcastle,5017560,['1635'],Miscellanies.,EPF108491143
           </div3>
 
           "
-Dr. Grew,#Nehemiah_Grew,72195733 ,['1636'],Miscellanies.,EPF108491143,"-1636
+Dr. Grew,#Nehemiah_Grew,72195733,['1636'],Miscellanies.,EPF108491143,"-1636
             Substances remaining from Experiment of Dr. Grews made wt. the
               German water sent him by his grace the Duke
                 of Newcastle.  (vid mineral
@@ -8802,7 +8853,7 @@ Dr. Dodd,#Peirce_Dod,49621697,['1674'],Miscellanies.,EPF108491145,"-1674.
             <ea:catnum type=""primary"" place=""margin"">-1674.</ea:catnum>
             <p>A <add rend=""underline"">knife &amp; fork</add> renderd magneticall by the<lb/>
               lighting &amp; thunder w<hi rend=""sup"">ch</hi>. fell on a warehouse<lb/>. where they
-              lay at ---- in <placeName>Yorkshire<lb/></placeName> concerning w<hi rend=""sup"">ch</hi>. See <bibl>phil. transact. N<hi rend=""sup"">o</hi>.</bibl><lb/> given to me
+              lay at ---- in <placeName ref=""#Yorkshire"">Yorkshire<lb/></placeName> concerning w<hi rend=""sup"">ch</hi>. See <bibl>phil. transact. N<hi rend=""sup"">o</hi>.</bibl><lb/> given to me
               by <persName ref=""#Peirce_Dod"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Dodd</add></persName>.</p>
             <p>
               
@@ -8892,14 +8943,14 @@ Revd Mr. Scott,#Revd_Mr_Scott,,['1686'],Miscellanies.,EPF108491146,"-1686.
               
                 Idol found in a cave at-
               Guanaboa. supposed to have been sevll. hundred years buried in that place. From
-                Jamacia from the Revd Mr.
+              Jamaica from the Revd Mr.
                   Scott.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1686.</ea:catnum>
             <p>An image of a heathen <add rend=""underline"">pagod</add>
               <add hand=""shift"">
                 <metamark function=""carets"">Idol</metamark></add> found in a cave at-<lb/>
               <placeName ref=""#Guanaboa"">Guanaboa</placeName>. supposed to have been sev<hi rend=""sup"">ll</hi>. hundred years<lb/> buried in that place. From
-                <placeName>Jamacia</placeName> from the <persName ref=""#Revd_Mr_Scott"">Revd<lb/> M<hi rend=""sup"">r</hi>.
+              <placeName ref=""#Jamaica"">Jamaica</placeName> from the <persName ref=""#Revd_Mr_Scott"">Revd<lb/> M<hi rend=""sup"">r</hi>.
                   <add rend=""underline"">Scott</add></persName>.</p>
             <p>
               
@@ -8915,7 +8966,7 @@ Mr. Maitland,#Charles_Maitland,58035147,['1688'],Miscellanies.,EPF108491146,"-16
             <ea:catnum type=""primary"" place=""margin"">-1688.</ea:catnum>
             <p>Pieces of <note type=""colour"">red</note>
               <material><add rend=""underline"">mosaick work</add> tessere </material> taken up
-              from<lb/> a pavemt in little S<hi rend=""sup"">t</hi>. Helens near <placeName>Bishops
+              from<lb/> a pavemt in little S<hi rend=""sup"">t</hi>. Helens near <placeName ref=""#Bishopsgate"">Bishops
                 -<lb/> gate</placeName> from <persName ref=""#Charles_Maitland""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Maitland</add></persName>.</p>
             <p>
               
@@ -8963,7 +9014,7 @@ Mr. Bell,#Mr._Bell,,['1694'],Miscellanies.,EPF108491146,"-1694.
             XX","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1694.</ea:catnum>
             <p>A  of a
-                  <add rend=""underline"">box</add> for tea <material><note type=""colour"">spotted</note> wood from the <placeName>Molucco<lb/>
+                  <add rend=""underline"">box</add> for tea <material><note type=""colour"">spotted</note> wood from the <placeName ref=""#Malacca"">Molucco<lb/>
                   Islands</placeName></material> made in <placeName ref=""#China"">China</placeName>
               &amp; fill'd w<hi rend=""sup"">t</hi>. three tutenage<lb/> canisters full of 1.
               Ling-ci-sing. a stomachic. 2. <gap reason=""illegible""/>Luvy<lb/> lue a cordiall. 3.
@@ -8994,7 +9045,7 @@ Mr. Bell,#Mr._Bell,,['1701'],Miscellanies.,EPF108491147,"-1701.
           </div3>
 
           "
-Duke of Buclugh,#FrancisBuccleuch,180956489 ,['1706'],Miscellanies.,EPF108491147,"-1706.
+Duke of Buclugh,#FrancisBuccleuch,180956489,['1706'],Miscellanies.,EPF108491147,"-1706.
             The head of a statue after death? began given to me
               by the Duke of Buclugh found in a
               wall near his Graces house near Kings Langley in
@@ -9002,7 +9053,7 @@ Duke of Buclugh,#FrancisBuccleuch,180956489 ,['1706'],Miscellanies.,EPF108491147
             <ea:catnum type=""primary"" place=""margin"">-1706.</ea:catnum>
             <p>The <add rend=""underline"">head</add> of a statue after death? began given to me<lb/>
               by the <persName ref=""#FrancisBuccleuch"">Duke of <add rend=""underline"">Buclugh</add></persName> found in a
-              wall near his<lb/> Graces house near <placeName>Kings Langley in
+              wall near his<lb/> Graces house near <placeName ref=""#Kings_Langley"">Kings Langley in
                 Hertfordsh</placeName>.</p>
           </div3>
 
@@ -9014,7 +9065,7 @@ Dr. Waldo,#Daniel_Waldo,,['1707'],Miscellanies.,EPF108491147,"-1707.
             <ea:catnum type=""primary"" place=""margin"">-1707.</ea:catnum>
             <p>A very <measure type=""sizeWeight"">large</measure>
               <add rend=""underline""><material>Coconutt</material></add> finely carvd from the
-                <placeName>East Indies<lb/></placeName> from <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName>.</p>
+                <placeName ref=""#East_Indies"">East Indies<lb/></placeName> from <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName>.</p>
             <p>
               
             </p>
@@ -9056,7 +9107,7 @@ Mr. Fuller,#JohnFul,53334571,['1712'],Miscellanies.,EPF108491147,"-1712.
               of a serpents skin wt. characters? upon
               it. from Mr. Fuller.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1712.</ea:catnum>
-            <p>A Sword <add rend=""underline"">scabbard</add> from <placeName>Japan</placeName>? made
+            <p>A Sword <add rend=""underline"">scabbard</add> from <placeName ref=""#Japan"">Japan</placeName>? made
               of a <material>serpents skin</material> w<hi rend=""sup"">t</hi>.<lb/> characters? upon
               it. from <persName ref=""#JohnFul"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Fuller</add></persName>.</p>
             <p>
@@ -9075,7 +9126,7 @@ Mr. Ranby,#John_Ranby,59484380,['1716'],Miscellanies.,EPF108491147,"-1716.
               23 a","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1716.</ea:catnum>
             <p>A <note type=""colour"">black</note> earthen <metamark function=""carets"">old.</metamark>
-              <placeName>Japan</placeName>
+              <placeName ref=""#Japan"">Japan</placeName>
               <add rend=""underline"">saucer</add> enameld w<hi rend=""sup"">t</hi>. figures<lb/> &amp;
               birds. given me by <persName ref=""#John_Ranby""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Ranby</add></persName>. old.</p>
             <p>
@@ -9094,7 +9145,7 @@ Governr. Yale,#Elihu_Yale,46310522,['1721'],Miscellanies.,EPF108491148,"-1721.
               Elephant or rhinoc eros hide.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1721.</ea:catnum>
             <p>A very <measure type=""sizeWeight"">large</measure>
-              <add rend=""underline"">shield</add> from <placeName>fort S<hi rend=""sup"">t</hi>.
+              <add rend=""underline"">shield</add> from <placeName ref=""#Fort_George"">fort S<hi rend=""sup"">t</hi>.
                 George</placeName> in the<lb/>
               <placeName ref=""#East_Indies"">East Indies</placeName> by <persName ref=""#Elihu_Yale"">
                  Govern<hi rend=""sup"">r</hi>. <add rend=""underline"">Yale</add></persName>. made of an 
@@ -9305,7 +9356,7 @@ Dr. Massey,#Richard_Middleton_Massey,,['1750'],Miscellanies.,EPF108491150,"-1750
             <p>An Indian <add rend=""underline"">God</add>
               <add hand=""shift"">
                 <metamark function=""carets""><add rend=""underline"">Idol</add></metamark></add> of the
-              Inhabitants ab<hi rend=""sup"">t</hi>. <placeName>Hudsons bay</placeName><lb/> 'tis made
+              Inhabitants ab<hi rend=""sup"">t</hi>. <placeName ref=""#Hudson_Bay"">Hudsons bay</placeName><lb/> 'tis made
               of <measure>part</measure> of a <note type=""texture"">solid</note>
               <add rend=""underline""><material>fish bone</material></add> on which<lb/> is carv'd at
               the upper end the face of a man.<lb/> It hath a <material>seal skin</material> strap
@@ -9387,7 +9438,7 @@ Mr. Captn Jenkins,#Capt_Jenkens,,['1768'],Miscellanies.,EPF108491151,"-1768.
             <p>The <add rend=""underline"">habit</add> of the inhabitants of <placeName ref=""#Kamchatka"">Kamcatchki</placeName> of <material>furrs</material><lb/> &amp;
               needlework from <persName ref=""#Capt_Jenkens"">M<hi rend=""sup"">r</hi>. <add hand=""shift"">
                   <metamark function=""carets"">Capt<hi rend=""sup"">n</hi></metamark></add>
-                Jenkins</persName> from <placeName>Peterburg.<lb/></placeName> coat, britches, shoes
+                Jenkins</persName> from <placeName ref=""#Petersburg"">Peterburg.<lb/></placeName> coat, britches, shoes
               &amp; stockings.</p>
           </div3>
 
@@ -9475,7 +9526,7 @@ Mr. Philipp Miller,#Philip_Miller,36936358,['1782'],Miscellanies.,EPF108491152,"
             <p>A sort of  for lighting<add rend=""underline"">torch</add> or link made of
                 <material>resina</material>
               <lb/> upon all occasions the Indians in
-                <placeName>North America<lb/></placeName> given to me by <persName ref=""#Philip_Miller""> M<hi rend=""sup"">r</hi>. Philipp <add rend=""underline"">Miller</add></persName>.</p>
+                <placeName ref=""#North_America"">North America<lb/></placeName> given to me by <persName ref=""#Philip_Miller""> M<hi rend=""sup"">r</hi>. Philipp <add rend=""underline"">Miller</add></persName>.</p>
             <p>
               
               <add rend=""red"">26 cab.</add>
@@ -9492,7 +9543,7 @@ Mr. Mason,#Mr._Mason,,['1783'],Miscellanies.,EPF108491152,"-1783.
                   Mr. Mason.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1783.</ea:catnum>
             <p>A <add rend=""underline"">shovell</add> head <metamark function=""carets"">of
-                  <material>oak</material></metamark> found 36 foot <metamark function=""carets"">deep</metamark> in an old Roman lead<lb/> mine in <placeName>wales</placeName>. It
+                  <material>oak</material></metamark> found 36 foot <metamark function=""carets"">deep</metamark> in an old Roman lead<lb/> mine in <placeName ref=""#Wales"">wales</placeName>. It
               had a <measure type=""sizeWeight"">long</measure> shaft or handle<lb/> that was join'd
               to it by going into a hole &amp; fastened at<lb/> its <measure type=""sizeWeight"">short</measure> &amp; <measure type=""sizeWeight"">broad</measure> end from
                   <persName ref=""#Mr._Mason"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Mason</add></persName>.</p>
@@ -9563,7 +9614,7 @@ Mr. Cox,#Mr._Cox,,['1792'],Miscellanies.,EPF108491152,"-1792.
               Wastcoat made of the tree like the
                 Lagetto. From Mr. Cox.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1792.</ea:catnum>
-            <p>An <placeName> East India</placeName>
+            <p>An <placeName ref=""#East_Indies""> East India</placeName>
               <add rend=""underline"">Wastcoat</add> made of the <material>tree like the<lb/>
                 <add rend=""underline"">Lagetto</add></material>. From <persName ref=""#Mr._Cox"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Cox</add></persName>.</p>
             <p>
@@ -9578,7 +9629,7 @@ Dr. Massy,#Richard_Middleton_Massey,,['1794'],Miscellanies.,EPF108491152,"-1794.
               Dr. Massy.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1794.</ea:catnum>
             <p>A Chinese  from <add rend=""underline"">brick</add> from a ruin'd temple at
-              <placeName>Emuy</placeName>.<lb/>
+              <placeName ref=""#Emuy"">Emuy</placeName>.<lb/>
               <persName ref=""#Richard_Middleton_Massey"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Massy</add></persName>.</p>
           </div3>
 
@@ -9590,7 +9641,7 @@ Mr. Barham,#HenrySr.,309613770,['1796'],Miscellanies.,EPF108491152,"-1796.
                  Mr. Barham.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-1796.</ea:catnum>
             <p>A <add rend=""underline"">bullet</add> used by the runaway negros in
-                <placeName>Jamaica<lb/></placeName> made of the pewter dishes &amp; lead in a
+                <placeName ref=""#Jamaica"">Jamaica<lb/></placeName> made of the pewter dishes &amp; lead in a
               thimble<lb/> When there is too much tinn they break in pieces<lb/> on being shott.
                 <persName ref=""#HenrySr.""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Barham</add></persName>.</p>
             <p>
@@ -9627,7 +9678,7 @@ Cardinall Gualtieris,#Cardinal_Gualtieri,89105442,['700'],Antiquities.,EPF108491
           </div3>
 
           "
-Dr. Houston,#Robert_Houston,299149294141680521071,['726'],Antiquities.,EPF108491153v,"-726.
+Dr. Houston,#Robert_Houston,2.99149E+20,['726'],Antiquities.,EPF108491153v,"-726.
             An earthen
               bottle of gray earth colourd
                 black in the form of a porpoise wt. a handle from Peru by  Dr. Houston said to be one of their gods. (
@@ -9669,7 +9720,7 @@ Mr. Conyers,#John_Conyers,,['4'],Antiquities.,EPF108491154,"-4.
               <material>earthen</material>
               <add rend=""underline"">bottle</add> taken up by<lb/>
               <persName ref=""#John_Conyers"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Conyers</add></persName> in
-                <placeName>Goodmans fields<lb/></placeName> amongst urns anno 1680 when .<lb/> they
+                <placeName ref=""#Goodman_fields"">Goodmans fields<lb/></placeName> amongst urns anno 1680 when .<lb/> they
               were digging for new-<lb/> foundations.</p>
             <p>
               <add hand=""later"">H. 6 3/4<hi rend=""sup"">in</hi></add>
@@ -9694,10 +9745,10 @@ Mr. Jo. Scheuchzer,#Johann_Jakob_Scheuchzer,49308476,['738'],Antiquities.,EPF108
               them.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">738.</ea:catnum>
             <p><measure>4</measure>
-              <add rend=""underline"">Tesseræ Badenses</add> found in the fields near <placeName>Zurich</placeName><lb/>
+              <add rend=""underline"">Tesseræ Badenses</add> found in the fields near <placeName ref=""#Zurich"">Zurich</placeName><lb/>
               &amp; <add rend=""underline""><placeName ref=""#Baden"">Baden</placeName></add> of
                 <measure>severall</measure> magnitudes sent to me by <persName ref=""#Johann_Jakob_Scheuchzer""> M<hi rend=""sup"">r</hi>.<lb/> Jo. <add rend=""underline"">Scheuchzer</add></persName> from
-              <placeName>Zurich</placeName> w<hi rend=""sup"">t</hi>. his dissertation ab<hi rend=""sup"">t</hi>
+              <placeName ref=""#Zurich"">Zurich</placeName> w<hi rend=""sup"">t</hi>. his dissertation ab<hi rend=""sup"">t</hi>
               them.</p>
             <p>
               
@@ -9722,7 +9773,7 @@ Mr. Cooke,#Mr_Cooke,48911341,['743'],Antiquities.,EPF108491154v,"-743.
             <ea:catnum type=""primary"" place=""margin"">-743.</ea:catnum>
             <p>A <measure type=""sizeWeight"">large</measure>
               <material>brasse</material> instrument called a <add rend=""underline"">Celta</add> by
-              some <lb/> or wedge by others found in the <placeName>Isle of Wight<lb/></placeName>
+              some <lb/> or wedge by others found in the <placeName ref=""#Isle_Wight"">Isle of Wight<lb/></placeName>
               by <persName ref=""#Mr_Cooke"">M<hi rend=""sup"">r</hi>. <metamark function=""carets""><gap reason=""illegible""/></metamark>
                 <add rend=""underline"">Cooke</add></persName> who gave it me vid his letters. <figure rend=""pencil""/>
               <measure> L. 8.<hi rend=""sup"">in</hi></measure>
@@ -9843,7 +9894,7 @@ Mr. Oldesworth,#Oldsworth,,['31'],Antiquities.,EPF108491156,"31.
               20 J.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">31.</ea:catnum>
             <p><add rend=""underline""><material>Electrum Britanicum</material></add> Antiquorum<lb/>
-              sen pars vasis aurei pallidi super<lb/> vitrum sic appellatum in <placeName><add rend=""underline"">Camdeno</add></placeName>.<lb/> In fundamento N. S<hi rend=""sup"">ti</hi>. Pauli. <add hand=""later"">/ more<lb/> from <persName ref=""#Oldsworth"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Oldesworth</add></persName>.</add></p>
+              sen pars vasis aurei pallidi super<lb/> vitrum sic appellatum in <placeName ref=""#Camden""><add rend=""underline"">Camdeno</add></placeName>.<lb/> In fundamento N. S<hi rend=""sup"">ti</hi>. Pauli. <add hand=""later"">/ more<lb/> from <persName ref=""#Oldsworth"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Oldesworth</add></persName>.</add></p>
             <p>
               
               <add rend=""red"">20 J.</add>
@@ -9867,7 +9918,7 @@ Dr. Harwood,#Dr_Harwood,73863243,['33'],Antiquities.,EPF108491156,"33.
             <ea:catnum type=""primary"" place=""margin"">33.</ea:catnum>
             <p>The <material>brasse</material>
               <add rend=""underline"">foot</add> of a Roman idol <add hand=""later""><metamark function=""carets"">or votum</metamark></add> taken<lb/> up at
-                <placeName>Uriconium</placeName> or <placeName>Wroxeter in<lb/>
+                <placeName>Uriconium</placeName> or <placeName ref=""#Wroxeter_Shropshire"">Wroxeter in<lb/>
                 Shropshire</placeName> given me by <persName ref=""#Dr_John_Harwood, Dr_Harwood""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Harwood</add></persName>. <add hand=""later""><abbr>Vid.</abbr>
                 <bibl>Montfaucon 2<hi rend=""sup"">d</hi>. p. l. pag 2 Pl. c. fig. 5.</bibl></add>
               <figure rend=""pen""/>
@@ -10096,7 +10147,7 @@ Dr. Lavater,#Dr._Lavater,,['100'],Antiquities.,EPF108491162,"-100.
                 Lavater.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-100.</ea:catnum>
             <p> circa oppidum <add rend=""underline"">Tesseræ lusoriæ</add> lapideæ, reperiuntur<lb/>
-              <placeName>Badam in
+              <placeName ref=""#Baden"">Badam in
                 libera<lb/></placeName> provincia Helvetiorum from <persName ref=""#Jean_Rodoplhe_Lavater, Dr._Lavater"">D<hi rend=""sup"">r</hi>.<lb/>
                 <add rend=""underline"">Lavater</add></persName>.</p>
           </div3>
@@ -10119,7 +10170,7 @@ Abbe Sterbini,#Abbe_Bernardo_Sterbini,,['880'],Antiquities.,EPF108491162v,"-880
           </div3>
 
           "
-Dr. Richardson,#Richard_Richardson,1499948 ,['100*'],Antiquities.,EPF108491163,"-100*.
+Dr. Richardson,#Richard_Richardson,1499948,['100*'],Antiquities.,EPF108491163,"-100*.
             Fragments of the devills arrows at Burrowbridge sent me by  Dr. Richardson.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-100<hi rend=""sup"">*</hi>.</ea:catnum>
             <p>Fragments of the devills <add rend=""underline"">arrows</add><lb/> at <placeName ref=""#Burrowbridge"">Burrowbridge</placeName> sent<lb/> me by <persName ref=""#Richard_Richardson""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Richardson</add></persName>.</p>
@@ -10144,8 +10195,8 @@ Mr. Martin,#Mr._Martin,,['106'],Antiquities.,EPF108491163,"-106.
               <add rend=""underline""/> of <note type=""colour"">red</note>
               <material>clay</material> with<lb/>
               <add rend=""underline"">Strobu</add> mark'd on it taken up at<lb/>
-              <placeName>Colonia Agrippina</placeName> at <measure>some</measure> distance<lb/> from
-                <placeName>Colen</placeName> in <placeName ref=""#Germany"">Germany</placeName> &amp; given<lb/>
+              <placeName ref=""#Colonia_Agrippina"">Colonia Agrippina</placeName> at <measure>some</measure> distance<lb/> from
+                <placeName ref=""#Cologne"">Colen</placeName> in <placeName ref=""#Germany"">Germany</placeName> &amp; given<lb/>
               me by <persName ref=""#Mr._Martin"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Martin</add></persName>.</p>
             <p>
               
@@ -10154,7 +10205,7 @@ Mr. Martin,#Mr._Martin,,['106'],Antiquities.,EPF108491163,"-106.
             <metamark rend=""red"">X</metamark>
           </div3>
           "
-Mr. Brigstock,#Owen_Brigstocke,972152502793910800003,['107'],Antiquities.,EPF108491163,"-107.
+Mr. Brigstock,#Owen_Brigstocke,9.72153E+20,['107'],Antiquities.,EPF108491163,"-107.
             An Egyptian
               earthen
               idol wt. Hieroglyphicks upon it,
@@ -10251,7 +10302,7 @@ Abbe Sterbini,#Abbe_Bernardo_Sterbini,,['928'],Antiquities.,EPF108491164v,"-928.
             <ea:catnum type=""primary"" place=""margin"">-928.</ea:catnum>
             <p>The head of a man in <note type=""colour"">red</note>
               <material>earth</material> w<hi rend=""sup"">t</hi>. his head<lb/> shaved except a
-              border of hair. from <placeName>Rome<lb/></placeName> by the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe
+              border of hair. from <placeName ref=""#Rome"">Rome<lb/></placeName> by the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe
                 Sterbini</persName>.</p>
             <p>
               
@@ -10360,7 +10411,7 @@ Cardinall Gualtieri,#Cardinal_Gualtieri,89105442,['980'],Antiquities.,EPF1084911
             <ea:catnum type=""primary"" place=""margin"">-980.</ea:catnum>
             <p>A Roman Lamp of <note type=""colour"">red</note>
               <material>earth</material> w<hi rend=""sup"">t</hi>. a leopard at top<lb/> &amp;
-              underneath the word. <add rend=""underline"">Ra<gap reason=""illegible""/> gu <metamark function=""carets"">aug</metamark> sus</add> from <placeName>Rome<lb/></placeName>
+              underneath the word. <add rend=""underline"">Ra<gap reason=""illegible""/> gu <metamark function=""carets"">aug</metamark> sus</add> from <placeName ref=""#Rome"">Rome<lb/></placeName>
               from the Collection of <persName ref=""#Cardinal_Gualtieri"">Cardinall Gualtieri</persName> by the<lb/>
               <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
             <p>
@@ -10392,7 +10443,7 @@ Abbe Sterbini,#Abbe_Bernardo_Sterbini,,['980'],Antiquities.,EPF108491167v,"-980.
             <ea:catnum type=""primary"" place=""margin"">-980.</ea:catnum>
             <p>A Roman Lamp of <note type=""colour"">red</note>
               <material>earth</material> w<hi rend=""sup"">t</hi>. a leopard at top<lb/> &amp;
-              underneath the word. <add rend=""underline"">Ra<gap reason=""illegible""/> gu <metamark function=""carets"">aug</metamark> sus</add> from <placeName>Rome<lb/></placeName>
+              underneath the word. <add rend=""underline"">Ra<gap reason=""illegible""/> gu <metamark function=""carets"">aug</metamark> sus</add> from <placeName ref=""#Rome"">Rome<lb/></placeName>
               from the Collection of <persName ref=""#Cardinal_Gualtieri"">Cardinall Gualtieri</persName> by the<lb/>
               <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
             <p>
@@ -10530,7 +10581,7 @@ Mr. Morton,#John_Morton,32339606,['151'],Antiquities.,EPF108491169,"-151.
               Mr. Morton.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-151.</ea:catnum>
             <p><add rend=""underline"">Tessellæ</add> us'd in the Roman pavement<lb/> at Caster
-              (Durobrivæ). in <placeName>Northampton<lb/></placeName> shire. <bibl>N. hist. Ch.
+              (Durobrivæ). in <placeName ref=""#Northampton"">Northampton<lb/></placeName> shire. <bibl>N. hist. Ch.
                 10.</bibl>
               <persName ref=""#John_Morton"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Morton</add></persName>.</p>
             <p>
@@ -10578,7 +10629,7 @@ Mr. Hodges,#Mr_Hodges,,['154'],Antiquities.,EPF108491170,"-154.
               Javelin made of palm tree wood.
               given me by Mr. Hodges","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-154.</ea:catnum>
-            <p>A <placeName>Japan</placeName>
+            <p>A <placeName ref=""#Japan"">Japan</placeName>
               <add rend=""underline"">Javelin</add> made of <material>palm<lb/> tree wood</material>.
               given me by <persName ref=""#Mr_Hodges"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Hodges</add></persName></p>
             <p>
@@ -10608,7 +10659,7 @@ Cardinall Gualtieris,#Cardinal_Gualtieri,89105442,['1040'],Antiquities.,EPF10849
             <p>A Roman lamp of <note type=""colour"">red</note>
               <material>bak'd earth</material> on the<lb/> Upper side 2 boys at play? from
                 <persName ref=""#Cardinal_Gualtieri""> Card<lb/>inall Gualtieris</persName> Collection at
-                <placeName>Rome<lb/></placeName> the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
+                <placeName ref=""#Rome"">Rome<lb/></placeName> the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
             <p>
               
             </p>
@@ -10624,7 +10675,7 @@ Abbe Sterbini,#Abbe_Bernardo_Sterbini,,['1040'],Antiquities.,EPF108491170v,"-104
             <p>A Roman lamp of <note type=""colour"">red</note>
               <material>bak'd earth</material> on the<lb/> Upper side 2 boys at play? from
                 <persName ref=""#Cardinal_Gualtieri""> Card<lb/>inall Gualtieris</persName> Collection at
-                <placeName>Rome<lb/></placeName> the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
+                <placeName ref=""#Rome"">Rome<lb/></placeName> the <persName ref=""#Abbe_Bernardo_Sterbini"">Abbe Sterbini</persName>.</p>
             <p>
               
             </p>
@@ -10635,7 +10686,7 @@ Bp of Norwich,#Bp_of_Norwich,,['159'],Antiquities.,EPF108491171,"-159.
             An urne taken up in Norfolk.
               given me by the Bp of Norwich.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-159.</ea:catnum>
-            <p>An <add rend=""underline"">urne</add> taken up in <placeName>Norfolk</placeName>.<lb/>
+            <p>An <add rend=""underline"">urne</add> taken up in <placeName ref=""#Norfolk"">Norfolk</placeName>.<lb/>
               given me by the <persName ref=""#Bp_of_Norwich"">Bp<figure rend=""symbol""/> of <add rend=""underline"">Norwich</add></persName>.</p>
             <p>
               
@@ -10643,7 +10694,7 @@ Bp of Norwich,#Bp_of_Norwich,,['159'],Antiquities.,EPF108491171,"-159.
           </div3>
 
           "
-Ld Peterborough,#Charles_Townshend,18033780 ,['167'],Antiquities.,EPF108491172,"-167.
+Ld Peterborough,#Charles_Townshend,18033780,['167'],Antiquities.,EPF108491172,"-167.
             A gray
               long
               urne or Sympulum ?
@@ -10679,7 +10730,7 @@ Mort,#John_Morton,32339606,['168'],Antiquities.,EPF108491172,"-168.
               <material>glasse</material>
               <add rend=""underline"">bead</add> or <metamark function=""carets"">Druids</metamark>
               <add rend=""underline"">amulet</add><lb/> found near Rowel in
-                <placeName>Northamptonshire<lb/></placeName>
+                <placeName ref=""#Northamptonshire"">Northamptonshire<lb/></placeName>
               <bibl><add rend=""underline""><persName ref=""#John_Morton""> Mort</persName>.</add> N. H. N. p. 499. tab.
                 14. fig. 1.</bibl><lb/>
               <add rend=""underline"">Glain Naidr</add> Snake Stones or <add rend=""underline"">adderbeads</add><lb/> of <bibl>Llwd. add. Cambd. p. 683.</bibl> This<lb/> the
@@ -10733,7 +10784,7 @@ Mr. Wainwright,#Mr._Wainwright,,['173'],Antiquities.,EPF108491172,"-173.
             <ea:catnum type=""primary"" place=""margin"">-173.</ea:catnum>
             <p>The garniture of an old wainscot<lb/>
               <add rend=""underline"">chimney piece</add> at <persName ref=""#Mr._Wainwright"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Wainwright</add></persName>s at<lb/>
-              <placeName>Throp Mandeville</placeName>. M</p>
+              <placeName ref=""#Thorpe_Mandeville"">Throp Mandeville</placeName>. M</p>
             <p>
               
               <add rend=""red"">19 g</add>
@@ -10918,7 +10969,7 @@ Dr. Massy,#Richard_Middleton_Massey,,['184'],Antiquities.,EPF108491174,"-184.
             <ea:catnum type=""primary"" place=""margin"">-184.</ea:catnum>
             <p>A <measure>piece</measure> of an <add rend=""underline"">urne</add> in which<lb/> there
               was found near halfe<lb/> a bushell of coins of Tetricus<lb/> &amp; Victorinus near
-                <placeName>Wisbech</placeName><lb/> given me by <persName ref=""#Richard_Middleton_Massey"">D<hi rend=""sup"">r</hi>.
+                <placeName ref=""#Wisbech"">Wisbech</placeName><lb/> given me by <persName ref=""#Richard_Middleton_Massey"">D<hi rend=""sup"">r</hi>.
                   <add rend=""underline"">Massy</add></persName>.</p>
             <p>
               
@@ -11056,7 +11107,7 @@ Abbe Sterbini,#Abbe_Bernardo_Sterbini,,['1110'],Antiquities.,EPF108491174v,"-111
           </div3>
 
           "
-Lord Sandwich,#Earl_of_Sandwich,3267042 ,['1119'],Antiquities.,EPF108491174v,"1119.
+Lord Sandwich,#Earl_of_Sandwich,3267042,['1119'],Antiquities.,EPF108491174v,"1119.
             An ibis preserved by the Ægyptians in an earthen
               red
               
@@ -11150,7 +11201,7 @@ Kemp,#John_Kempe,72605595,['203'],Antiquities.,EPF108491175,"-203.
           </div3>
 
           "
-Earl of Arundell,#Earl_of_Arundell,41868983 ,['1120'],Antiquities.,EPF108491175v,"1120.
+Earl of Arundell,#Earl_of_Arundell,41868983,['1120'],Antiquities.,EPF108491175v,"1120.
              1. An black
               ebbany Cabinet where= in are contained the impressions
               of many seals or intaglia of the
@@ -11627,7 +11678,7 @@ Mr. Jackson,#Mr_Jackson,,['1121'],Antiquities.,EPF108491175v,"1121.
             <ea:catnum type=""primary"" place=""margin"">1121.</ea:catnum>
             <p>Pieces of <metamark function=""carets""><note type=""colour"">gray</note>
                 <material>earthen</material></metamark> Roman Urns found<lb/> by the
-              banks of the <placeName>Thames</placeName><lb/> near <placeName>Stains</placeName> by <persName ref=""#Mr_Jackson"">M<hi rend=""sup"">r</hi>. Jackson</persName></p>
+              banks of the <placeName ref=""#Thames"">Thames</placeName><lb/> near <placeName ref=""#Staines"">Stains</placeName> by <persName ref=""#Mr_Jackson"">M<hi rend=""sup"">r</hi>. Jackson</persName></p>
             <p>
               
             </p>
@@ -11752,7 +11803,7 @@ Mr. Ashwort,#Mr_Ashworth,,['1125'],Antiquities.,EPF108491176v,"1125.
             <ea:catnum type=""primary"" place=""margin"">1125.</ea:catnum>
             <p>The Model of a <metamark function=""carets""><material>Brasse</material></metamark>
               Celta <metamark function=""carets"">w<hi rend=""sup"">t</hi>. a loop</metamark> found in a<lb/>
-              <placeName>Tuft Bogg  Marsh within two<lb/> Miles of
+              <placeName ref=""#Tuft_Bogg_Macclesfield"">Tuft Bogg  Marsh within two<lb/> Miles of
                 Macclesfield</placeName> sent to<lb/> me by <persName ref=""#Mr_Ashworth"">M<hi rend=""sup"">r</hi>.
                 Ashwort</persName>.</p>
             <p>
@@ -11884,7 +11935,7 @@ Wm. Ellis Esqr,#William_Ellis,,['238'],Antiquities.,EPF108491177,"-238.
           </div3>
 
           "
-Dr. Richardson,#Richard_Richardson,1499948 ,['238'],Antiquities.,EPF108491177,"-238.
+Dr. Richardson,#Richard_Richardson,1499948,['238'],Antiquities.,EPF108491177,"-238.
             The same
               broader & shorter from
               Kiddall in Yorkshire near Leeds found in
@@ -11980,7 +12031,7 @@ Mr. Wm. Watson,#William_Watson,20461029,[],Antiquities.,EPF108491177v,"Tiles tak
               Mr. Wm. Watson.
 
             Given by  Smart Lethieullier Esqr.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
-            <p>Tiles taken from Roman baths at <placeName>Bath<lb/></placeName> given by 
+            <p>Tiles taken from Roman baths at <placeName ref=""#Bath"">Bath<lb/></placeName> given by 
               <persName ref=""#William_Watson"">M<hi rend=""sup"">r</hi>. W<hi rend=""sup"">m</hi>. Watson</persName>.</p>
 
             <p>Given by <persName ref=""#Smart_Lethieullier""> Smart Lethieullier</persName> Esq<hi rend=""sup"">r</hi>.</p>
@@ -11991,7 +12042,7 @@ Smart Lethieullier,#Smart_Lethieullier,57510406,[],Antiquities.,EPF108491177v,"T
               Mr. Wm. Watson.
 
             Given by  Smart Lethieullier Esqr.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
-            <p>Tiles taken from Roman baths at <placeName>Bath<lb/></placeName> given by 
+            <p>Tiles taken from Roman baths at <placeName ref=""#Bath"">Bath<lb/></placeName> given by 
               <persName ref=""#William_Watson"">M<hi rend=""sup"">r</hi>. W<hi rend=""sup"">m</hi>. Watson</persName>.</p>
 
             <p>Given by <persName ref=""#Smart_Lethieullier""> Smart Lethieullier</persName> Esq<hi rend=""sup"">r</hi>.</p>
@@ -12011,7 +12062,7 @@ Conyers,#John_Conyers,,['246'],Antiquities.,EPF108491178,"-246.
               28. b.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-246.</ea:catnum>
             <p>A British <add rend=""underline"">weapon</add> found w<hi rend=""sup"">t</hi>.
-                <material>Elephants<lb/> tooth</material> opposite to <placeName>black Marys
+                <material>Elephants<lb/> tooth</material> opposite to <placeName ref=""#Mary"">black Marys
                 near<lb/> Grayes inn lane</placeName>
               <metamark function=""carets""><add rend=""underline""><persName ref=""#John_Conyers"">Conyers</persName></add></metamark> It is a large<lb/>
               <note type=""colour"">black</note>
@@ -12029,7 +12080,7 @@ Conyers,#John_Conyers,,['248'],Antiquities.,EPF108491178,"-248.
                 fields North west of the tower of London together wt. the silver & beads. Conyers. K.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-248.</ea:catnum>
             <p>Broken <add rend=""underline"">armillas</add> found among urnes<lb/> in the
-                <placeName>fields North west of the tower<lb/> of London</placeName> together w<hi rend=""sup"">t</hi>. the <material>silver</material> &amp;<lb/> beads. <persName ref=""#John_Conyers""><add rend=""underline"">Conyers</add></persName>. <add rend=""underline"">K</add>.</p>
+                <placeName ref=""#Tower_London"">fields North west of the tower<lb/> of London</placeName> together w<hi rend=""sup"">t</hi>. the <material>silver</material> &amp;<lb/> beads. <persName ref=""#John_Conyers""><add rend=""underline"">Conyers</add></persName>. <add rend=""underline"">K</add>.</p>
           </div3>
 
           "
@@ -12276,7 +12327,7 @@ Lord Cadogan,#Charles_Cadogan,41706359,['244*'],Antiquities.,EPF108491180,"-244*
           </div3>
 
           "
-Lord Burlington,#Lord_Burlington, 61395521 ,['249*'],Antiquities.,EPF108491180,"-249*.
+Lord Burlington,#Lord_Burlington,61395521,['249*'],Antiquities.,EPF108491180,"-249*.
             A wedge or what is called a Celta wt out any ear hole at the top or ring.
               from Yorkshire by My Lord Burlington. 
                 Vid
@@ -12331,9 +12382,7 @@ Sloane Sir Hans,#Hans_Sloane,77959,[],Antiquities.,EPF108491180a,Sloane Sir Hans
           </div3>
 
           "
-Mr. Dupuys,#Mr_Dupuys,22063536,['256*'],Antiquities.,EPF108491181,"-256.*
-            An earthen Roman Lamp. From
-                Mr. Dupuys.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
+Mr. Dupuys,#Mr_Dupuys,22063536,['256*'],Antiquities.,EPF108491181,#NAME?,"<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-256.*</ea:catnum>
             <p>An <material>earthen</material> Roman <add rend=""underline"">Lamp.</add> From
                 <persName ref=""#Mr_Dupuys"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">Dupuys</add></persName>.</p>
@@ -12420,7 +12469,7 @@ Sr. John Colbatch,#Sr._John_Colbatch,6276752,['304'],Antiquities.,EPF108491183,"
               <add rend=""underline"">pateræ or bolls</add> rib'd of a <note type=""colour"">greenish</note>
               <lb/>
               <material>glasse</material> found in a Stone coffin ab<hi rend=""sup"">t</hi>. 20 foot
-              deep<lb/> under the old Portico of <placeName>S<hi rend=""sup"">t</hi>. Martin's
+              deep<lb/> under the old Portico of <placeName ref=""#St_Martin"">S<hi rend=""sup"">t</hi>. Martin's
                 Church</placeName><lb/> given me by <persName ref=""#Sr._John_Colbatch""> S<hi rend=""sup"">r</hi>. John <add rend=""underline"">Colbatch</add></persName></p>
             <p>
               
@@ -12566,7 +12615,7 @@ Dr. Wood,#Robert_Wood,160845120,['384'],Antiquities.,EPF108491187,"-384.
                 folk 1711.  Dr. Wood. It had burnt bones unit & had lines upon it wt. some impressions.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-384.</ea:catnum>
             <p>An earthen <measure type=""sizeWeight"">large</measure>
-              <add rend=""underline"">urn</add> found at <placeName>North Elmham in Nor.<lb/>
+              <add rend=""underline"">urn</add> found at <placeName ref=""#North_Elmham"">North Elmham in Nor.<lb/>
                 folk</placeName> 1711. <persName ref=""#Robert_Wood""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Wood</add></persName>. It had burnt bones unit &amp; had<lb/> lines upon it w<hi rend=""sup"">t</hi>. <measure>some</measure> impressions.</p>
             <p>
               
@@ -12661,14 +12710,14 @@ Mrs. Dering,#Mrs._Dering,,['407'],Antiquities.,EPF108491188,"-407.
           </div3>
 
           "
-Lo Pembroke,#Lord_Pembroke,64332676 ,['409'],Antiquities.,EPF108491188,"-409.
+Lo Pembroke,#Lord_Pembroke,64332676,['409'],Antiquities.,EPF108491188,"-409.
             A cupid in Brasse from 
                 Rome antique from Lo Pembroke.
             
               
               VII. g","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-409.</ea:catnum>
-            <p>A <add rend=""underline"">cupid</add> in <material>Brasse</material> from <placeName>
+            <p>A <add rend=""underline"">cupid</add> in <material>Brasse</material> from <placeName ref=""#Rome"">
                 Rome</placeName> antique from <persName ref=""#Lord_Pembroke"">Lo <add rend=""underline"">Pembroke</add></persName>.</p>
             <p>
               
@@ -12973,7 +13022,7 @@ Sr. George Rook,#Sr_George_Rook,8790598,['438'],Antiquities.,EPF108491191,"-438.
             <p>Part of a Roman <add rend=""underline"">brick</add> , with furrows on one<lb/> side of
               it, of this sort are all y<hi rend=""sup"">e</hi> Key bricks of y<hi rend=""sup"">e</hi>
               arches<lb/> over y<hi rend=""sup"">e</hi> loop- holes of y<hi rend=""sup"">e</hi> Roman
-              pharos in <placeName>Dover<lb/></placeName> castle: this seems to have been a singular
+              pharos in <placeName ref=""#Dover"">Dover<lb/></placeName> castle: this seems to have been a singular
               contrivance<lb/> to let in y<hi rend=""sup"">e</hi> sand &amp; stones mixt with y<hi rend=""sup"">e</hi> mortar while<lb/> liquid, <add rend=""underline"">wch</add> would
               insinuate itself, &amp; y<hi rend=""sup"">e</hi> Stones would<lb/> lodge in these
               furrows &amp; keep y<hi rend=""sup"">e</hi> bricks at a proper<lb/> distance spreading
@@ -13523,7 +13572,7 @@ K. Ch. 1st,#Charles_I,88984774,['36'],Impressions of Seals &c.,EPF108491210,"-36
             </p>
             <p><persName ref=""#Francois_Louis_de_Bourbon""><add rend=""underline"">Francois Louis de Bour</add><add rend=""underline"">bon Prince</add><lb/>
               <add rend=""underline"">de Conly, prince du Sang</add></persName><add rend=""underline"">. pair de</add><lb/>
-              <placeName><add rend=""underline"">France</add></placeName>. a General on horseback.
+              <placeName ref=""#France""><add rend=""underline"">France</add></placeName>. a General on horseback.
               Lead.</p>
             <p>
               
@@ -13602,7 +13651,7 @@ King Charles the first,#Charles_I,88984774,['98'],Impressions of Seals &c.,EPF10
           </div3>
 
           "
-T. Simons,#Thomas_Simon, 96593406,['99'],Impressions of Seals &c.,EPF108491215,"-99.
+T. Simons,#Thomas_Simon,96593406,['99'],Impressions of Seals &c.,EPF108491215,"-99.
             The small seall of the parlt. made by 
                 T. Simons1rst year
               of  freedom by Gods blessing
@@ -14014,7 +14063,7 @@ Mr Vander Elst,#Mr_Vander_Elst,,['189'],Impressions of Seals &c.,EPF108491225,"1
           </div3>
 
           "
-Sir Richard Steele,#Sir_Richard_Steele,22167754 ,['190'],Impressions of Seals &c.,EPF108491225,"190.
+Sir Richard Steele,#Sir_Richard_Steele,22167754,['190'],Impressions of Seals &c.,EPF108491225,"190.
             The bust of  Sir Richard Steele , a
               well raised Impression in Lead. oval. The same with 287 of Pictures.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">190.</ea:catnum>
@@ -14325,7 +14374,7 @@ Fran. Drake,#Francis_Drake,46770352,['264'],Impressions of Seals &c.,EPF10849123
           </div3>
 
           "
-Nicholas,#Sir_Edward_Nicholas,76149066375565600915,['264'],Impressions of Seals &c.,EPF108491231,"264.
+Nicholas,#Sir_Edward_Nicholas,7.61491E+19,['264'],Impressions of Seals &c.,EPF108491231,"264.
             at the Corners four impressns. of old Seals, viz: No. ✓ 1. S. Offi
                   ? cü Roberti pōris de Douerey?.
               ✓ 2. S. convent? rum Predie. Gernemute.
@@ -14421,7 +14470,7 @@ K. Charles 2,#Charles_II,88984774,['264'],Impressions of Seals &c.,EPF108491231,
           </div3>
 
           "
-Simons,#Thomas_Simon, 96593406,['264'],Impressions of Seals &c.,EPF108491231,"264.
+Simons,#Thomas_Simon,96593406,['264'],Impressions of Seals &c.,EPF108491231,"264.
             at the Corners four impressns. of old Seals, viz: No. ✓ 1. S. Offi
                   ? cü Roberti pōris de Douerey?.
               ✓ 2. S. convent? rum Predie. Gernemute.
@@ -14474,7 +14523,7 @@ Mr. Kettle,#Mr._Kettle,,['266'],Impressions of Seals &c.,EPF108491231,"-266.
               found at Verulam given me by Mr. Kettle of St. Albans","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-266.</ea:catnum>
             <p>Impressions of letters carved on the three sides of an ash coloured<lb/> marble the
-              found at <placeName ref=""#Verulam"">Verulam</placeName> given me by <persName ref=""#Mr._Kettle"">M<hi rend=""sup"">r</hi>. Kettle</persName> of S<hi rend=""sup"">t</hi>. Albans</p>
+              found at <placeName ref=""#Verulamium"">Verulam</placeName> given me by <persName ref=""#Mr._Kettle"">M<hi rend=""sup"">r</hi>. Kettle</persName> of S<hi rend=""sup"">t</hi>. Albans</p>
             <p>
               
             </p>
@@ -14528,7 +14577,7 @@ David Loggan,#David_Loggan,100329291,['2'],Pictures &c.,EPF108491238,"-2.
           </div3>
 
           "
-AB Blosse Bloteling,#AB_Blosse_Bloteling, 42112130 ,['2'],Pictures &c.,EPF108491238,"-2.
+AB Blosse Bloteling,#AB_Blosse_Bloteling,42112130,['2'],Pictures &c.,EPF108491238,"-2.
             An  Spainish habit-
               ovall piece in black
               lead a -
@@ -14675,7 +14724,7 @@ Mrs. Merian,#Mrs._Merian,106967757,['9'],Pictures &c.,EPF108491238,"-9.
 
 
           "
-Robert,#Nicolas_Robert,42090768 ,['10'],Pictures &c.,EPF108491239,"10.
+Robert,#Nicolas_Robert,42090768,['10'],Pictures &c.,EPF108491239,"10.
             A Duck by 
                 Robert.
             
@@ -14691,7 +14740,7 @@ Robert,#Nicolas_Robert,42090768 ,['10'],Pictures &c.,EPF108491239,"10.
           </div3>
 
           "
-Robert,#Nicolas_Robert,42090768 ,['11'],Pictures &c.,EPF108491239,"11.
+Robert,#Nicolas_Robert,42090768,['11'],Pictures &c.,EPF108491239,"11.
             A diver by 
                 Robert.
             
@@ -14999,7 +15048,7 @@ Du Bosse,#Du_Bosse,,['55'],Pictures &c.,EPF108491242,"55.
           </div3>
 
           "
-George Duke of Albemarle,#George_Duke_Albemarle,12145857787923021175,['57'],Pictures &c.,EPF108491242,"57.
+George Duke of Albemarle,#George_Duke_Albemarle,1.21459E+19,['57'],Pictures &c.,EPF108491242,"57.
             George Duke of Albemarle.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">57.</ea:catnum>
             <p><persName ref=""#George_Duke_Albemarle"">George Duke of <add rend=""underline"">Albemarle</add></persName>.</p>
@@ -15007,7 +15056,7 @@ George Duke of Albemarle,#George_Duke_Albemarle,12145857787923021175,['57'],Pict
 
 
           "
-Della Bellas,#Della_Bella,7502835 ,['58'],Pictures &c.,EPF108491242,"-58.
+Della Bellas,#Della_Bella,7502835,['58'],Pictures &c.,EPF108491242,"-58.
              Della Bellas
               Persian
               habits , one of them.
@@ -15057,7 +15106,7 @@ Joannes Caius,#John_Caius,71413882,['62'],Pictures &c.,EPF108491242,"-62.
           </div3>
 
           "
-Mr. Pepys,#Samuel_Pepys,29602261 ,['63'],Pictures &c.,EPF108491242,"-63.
+Mr. Pepys,#Samuel_Pepys,29602261,['63'],Pictures &c.,EPF108491242,"-63.
              Mr. Pepys.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-63.</ea:catnum>
             <p><persName ref=""#Samuel_Pepys""> M<hi rend=""sup"">r</hi>. <add rend=""underline"">Pepys</add></persName>.</p>
@@ -15120,7 +15169,7 @@ Mrs. Johanna Byron,#Mrs._Johanna_Byron,,['68'],Pictures &c.,EPF108491243,"-68.
           </div3>
 
           "
-Barlow,#Barlow,47113434 ,['69'],Pictures &c.,EPF108491243,"-69.
+Barlow,#Barlow,47113434,['69'],Pictures &c.,EPF108491243,"-69.
             A piece of birds by 
                   Barlow - - - 1. 0. 0.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"" rend=""deleted"">
             <ea:catnum type=""primary"" place=""margin"">-69.</ea:catnum>
@@ -15241,7 +15290,7 @@ Rossi's,#Rossi,,['98'],Pictures &c.,EPF108491245,"-98.
                   Rome. 1676.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-98.</ea:catnum>
             <p><persName ref=""#Rossi""><add rend=""underline"">Rossi's</add></persName> map of modern
-                  <placeName><add rend=""underline"">Rome</add></placeName>. 1676.</p>
+                  <placeName ref=""#Rome""><add rend=""underline"">Rome</add></placeName>. 1676.</p>
             <p>
               
             </p>
@@ -15276,7 +15325,7 @@ Lord Exeter,#John_Cecil_5th_Earl_of_Exeter,33082607,['104'],Pictures &c.,EPF1084
 Silvestre,#Silvestre,,['108'],Pictures &c.,EPF108491246,"108.
             Dunkirk by  Silvestre 4. 15. 8. 0. 0.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">108.</ea:catnum>
-            <p><placeName><add rend=""underline"">Dunkirk</add></placeName> by <add rend=""underline""><persName ref=""#Silvestre""> Silvestre</persName></add> 4<hi rend=""sup""/>. 15. <note type=""value"">8. 0.</note> 0.</p>
+            <p><placeName ref=""#Dunkirk""><add rend=""underline"">Dunkirk</add></placeName> by <add rend=""underline""><persName ref=""#Silvestre""> Silvestre</persName></add> 4<hi rend=""sup""/>. 15. <note type=""value"">8. 0.</note> 0.</p>
             <p>
               
             </p>
@@ -15305,7 +15354,7 @@ Dr. Huntington,#Dr_Huntington,34684157,['120'],Pictures &c.,EPF108491247,"-120.
                brought thence by  Dr. Huntington.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-120.</ea:catnum>
             <p>Our <add rend=""underline"">Saviour</add> from
-                <placeName>Constantinople<lb/></placeName>
+                <placeName ref=""#Constantinople"">Constantinople<lb/></placeName>
               <lb/> brought thence by <persName ref=""#Dr_Huntington""> D<hi rend=""sup"">r</hi>. <add rend=""underline"">Huntington</add></persName>.</p>
           </div3>
 
@@ -15396,7 +15445,7 @@ Vesalius,#Vesalius,51696979,['147'],Pictures &c.,EPF108491249,"147.
           </div3>
 
           "
-Antony More,#Antony_More,4331149619451404010004,['147'],Pictures &c.,EPF108491249,"147.
+Antony More,#Antony_More,4.33115E+21,['147'],Pictures &c.,EPF108491249,"147.
             A half length of 
                 Vesalius ? by  Antony More.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">147.</ea:catnum>
@@ -15461,7 +15510,7 @@ Mr. Cook,#Mr_Cooke,48911341,['153'],Pictures &c.,EPF108491249,"-153.
           </div3>
 
           "
-Sr. Theodore Mayern,#Sr_Theodore_Mayern,95152542 ,['155'],Pictures &c.,EPF108491250,"-155.
+Sr. Theodore Mayern,#Sr_Theodore_Mayern,95152542,['155'],Pictures &c.,EPF108491250,"-155.
              Sr. Theodore Mayern on boards - given me by Mr. D'oyly & done by","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-155.</ea:catnum>
             <p><persName ref=""#Sr_Theodore_Mayern""> S<hi rend=""sup"">r</hi>. Theodore <add rend=""underline"">Mayern</add></persName> on boards -<lb/> given me by <persName ref=""#Mr._Doyly"">M<hi rend=""sup"">r</hi>. <add rend=""underline"">D'oyly</add></persName> &amp; done<lb/> by</p>
@@ -15505,7 +15554,7 @@ Mrs. Willoughby,#Mrs._Willoughby,,['157'],Pictures &c.,EPF108491250,"-157.
               
               V 6","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-157.</ea:catnum>
-            <p>An <placeName> East India</placeName>
+            <p>An <placeName ref=""#East_Indies""> East India</placeName>
               <add rend=""underline"">cow</add> given me by <lb/>
               <persName ref=""#Mrs._Willoughby"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Willoughby</add></persName>.</p>
             <p>
@@ -15806,7 +15855,7 @@ Luther's,#Martin_Luther,14773105,['194'],Pictures &c.,EPF108491253,"-194.
           </div3>
 
           "
-Lord Arundells,#Earl_of_Arundell,41868983 ,['200'],Pictures &c.,EPF108491253,"-200.
+Lord Arundells,#Earl_of_Arundell,41868983,['200'],Pictures &c.,EPF108491253,"-200.
             Lord Arundells
               picture on board. 
               0. 10. 00.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
@@ -15843,7 +15892,7 @@ Sr. Thomas Brown,#Thomas_Browne,41925299,['201'],Pictures &c.,EPF108491253,"-201
 
 
           "
-Mr. Brigstock,#Owen_Brigstocke,972152502793910800003,['201'],Pictures &c.,EPF108491253,"-201.
+Mr. Brigstock,#Owen_Brigstocke,9.72153E+20,['201'],Pictures &c.,EPF108491253,"-201.
             3 Green 
               plover? done on paper
               from 
@@ -16121,7 +16170,7 @@ Dobson,#William_Dobson,6410027,['248'],Pictures &c.,EPF108491258,"-248.
 
 
           "
-Robert,#Nicolas_Robert,42090768 ,['249'],Pictures &c.,EPF108491259,"-249.
+Robert,#Nicolas_Robert,42090768,['249'],Pictures &c.,EPF108491259,"-249.
             A cockatoo wt. a red
               tuft done  by 
                 Robert. 1. 1.
@@ -16348,7 +16397,7 @@ Queen Elizabeths,#Queen_Elizabeth_I,,['269'],Pictures &c.,EPF108491260,"-269.
 
 
           "
-Sr. Cornario,#Francesco_Cornaro,224145542839596642372,['270'],Pictures &c.,EPF108491261,"-270.
+Sr. Cornario,#Francesco_Cornaro,2.24146E+20,['270'],Pictures &c.,EPF108491261,"-270.
             A large cloath on which is painted the Ancestors of the family of Sr. Cornario who was
               Ambassador from
               Venice in the reign of  Queen Anne.
@@ -16359,7 +16408,7 @@ Sr. Cornario,#Francesco_Cornaro,224145542839596642372,['270'],Pictures &c.,EPF10
             <ea:catnum type=""primary"" place=""margin"">-270.</ea:catnum>
             <p>A <measure type=""sizeWeight"">large</measure> cloath on which<lb/> is <note type=""colour"">painted</note> the Ancestors of<lb/> the family of <persName ref=""#Francesco_Cornaro"">S<hi rend=""sup"">r</hi>. <add rend=""underline"">Cornario</add></persName><lb/> who was
               Ambassador from<lb/>
-              <placeName>Venice</placeName> in the reign of <persName ref=""#Queen_Anne""> Queen<lb/> Anne</persName>.
+              <placeName ref=""#Venice"">Venice</placeName> in the reign of <persName ref=""#Queen_Anne""> Queen<lb/> Anne</persName>.
               Given to me by himself<lb/> when he went for Venice.</p>
             <p>
               
@@ -16368,7 +16417,7 @@ Sr. Cornario,#Francesco_Cornaro,224145542839596642372,['270'],Pictures &c.,EPF10
           </div3>
 
           "
-Queen Anne,#Queen_Anne,805714 ,['270'],Pictures &c.,EPF108491261,"-270.
+Queen Anne,#Queen_Anne,805714,['270'],Pictures &c.,EPF108491261,"-270.
             A large cloath on which is painted the Ancestors of the family of Sr. Cornario who was
               Ambassador from
               Venice in the reign of  Queen Anne.
@@ -16379,7 +16428,7 @@ Queen Anne,#Queen_Anne,805714 ,['270'],Pictures &c.,EPF108491261,"-270.
             <ea:catnum type=""primary"" place=""margin"">-270.</ea:catnum>
             <p>A <measure type=""sizeWeight"">large</measure> cloath on which<lb/> is <note type=""colour"">painted</note> the Ancestors of<lb/> the family of <persName ref=""#Francesco_Cornaro"">S<hi rend=""sup"">r</hi>. <add rend=""underline"">Cornario</add></persName><lb/> who was
               Ambassador from<lb/>
-              <placeName>Venice</placeName> in the reign of <persName ref=""#Queen_Anne""> Queen<lb/> Anne</persName>.
+              <placeName ref=""#Venice"">Venice</placeName> in the reign of <persName ref=""#Queen_Anne""> Queen<lb/> Anne</persName>.
               Given to me by himself<lb/> when he went for Venice.</p>
             <p>
               
@@ -16466,7 +16515,7 @@ Jacomo Poro fils,#Jacomo_Poro,,['274'],Pictures &c.,EPF108491261,"-274.
             </p>
           </div3>
           "
-Barbara uxor Johannis Michael van Beck,#Barbara_van_Beck,5526159035171401380003,['275'],Pictures &c.,EPF108491261,"-275.
+Barbara uxor Johannis Michael van Beck,#Barbara_van_Beck,5.52616E+21,['275'],Pictures &c.,EPF108491261,"-275.
             The picture of Barbara uxor Johannis Michael van Beck nata Augustæ Vindelicorum in Gerni Super. Vulgo
               Augsburg ex pareahbus Balthazare & Anna Ursler. anno Chrish 1629. atat. 29.
                 Ano. 1656.
@@ -16519,7 +16568,7 @@ Olivar,#Olivar,95817357,['276'],Pictures &c.,EPF108491262,"-276.
           </div3>
 
           "
-Arundelian,#Earl_of_Arundell,41868983 ,['277'],Pictures &c.,EPF108491262,"-277.
+Arundelian,#Earl_of_Arundell,41868983,['277'],Pictures &c.,EPF108491262,"-277.
             The bustos of our saviour and Mary Magdalen cutt in basso  relievo in ivory. From the
               Arundelian collection.
             
@@ -16651,7 +16700,7 @@ D. of Marlborough,#Duke_Marlborough,29153,['285'],Pictures &c.,EPF108491262,"-28
           </div3>
 
           "
-Sr. Richard Steele,#Sir_Richard_Steele,22167754 ,['287'],Pictures &c.,EPF108491262,"-287.
+Sr. Richard Steele,#Sir_Richard_Steele,22167754,['287'],Pictures &c.,EPF108491262,"-287.
             ?  Sr. Richard Steele. Vid. 190. of seals. Impressions &c.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">-287.</ea:catnum>
             <p>? <persName ref=""#Sir_Richard_Steele""> S<hi rend=""sup"">r</hi>. Richard <add rend=""underline"">Steele</add></persName>. <abbr>Vid.</abbr> 190. of seals. Impressions &amp;c.</p>
@@ -16697,7 +16746,7 @@ Mr. Warner,#Mr_Warner_,,['288'],Pictures &c.,EPF108491263,"-288.
           </div3>
 
           "
-Abraham Symmonds,#Abraham_Simon,95831645 ,['289'],Pictures &c.,EPF108491263,"-289.
+Abraham Symmonds,#Abraham_Simon,95831645,['289'],Pictures &c.,EPF108491263,"-289.
              to of Bustos emboss'd in a certain paste by 
                 Abraham Symmonds on darkned
               glasse or black marble viz. His
@@ -16823,7 +16872,7 @@ Mr. Yales,#Elihu_Yale,46310522,['293'],Pictures &c.,EPF108491263,"-293.
           </div3>
 
           "
-Giovanni Maria LAncisi,#Giovanni_Maria_Lancisi,66774462 ,['294'],Pictures &c.,EPF108491263,"-294.
+Giovanni Maria LAncisi,#Giovanni_Maria_Lancisi,66774462,['294'],Pictures &c.,EPF108491263,"-294.
             The picture of  picture the print Giovanni Maria 
                 LAncisi in his purple habit of  Popes physitian by  Sebastiano Concha :  from wch
                was taken 15. 15.
@@ -16849,7 +16898,7 @@ Sebastiano Concha,#Sebastiano_Concha,,['294'],Pictures &c.,EPF108491263,"-294.
           </div3>
 
           "
-Queen Anne,#Queen_Anne,805714 ,['295'],Pictures &c.,EPF108491263,"-295.
+Queen Anne,#Queen_Anne,805714,['295'],Pictures &c.,EPF108491263,"-295.
             The picture of the late  Queen Anne made in writing by 
               Mr. Dundasse the
               Strokes & lines being proclamations, Speeches Psalms &c. contained in a
@@ -16982,7 +17031,7 @@ Mr. Dupuys,#Mr_Dupuys,22063536,['306'],Pictures &c.,EPF108491264,"-306.
           </div3>
 
           "
-Callot,#Jacques_Callot,19687783 ,['307'],Pictures &c.,EPF108491264,"-307.
+Callot,#Jacques_Callot,19687783,['307'],Pictures &c.,EPF108491264,"-307.
             Two playing at draughts after 
                 Callot painted in Silk. Id. 
             
@@ -16998,7 +17047,7 @@ Callot,#Jacques_Callot,19687783 ,['307'],Pictures &c.,EPF108491264,"-307.
           </div3>
 
           "
-Moliere,#Moliere, 2474502,['310'],Pictures &c.,EPF108491264,"-310.
+Moliere,#Moliere,2474502,['310'],Pictures &c.,EPF108491264,"-310.
             The Busto of 
                 Moliere. broken 
             
@@ -17296,7 +17345,7 @@ Mr. Bell,#Mr._Bell,,['354'],Pictures &c.,EPF108491267,"-354.
           </div3>
 
           "
-Callot,#Jacques_Callot,19687783 ,['356'],Pictures &c.,EPF108491267,"-356.
+Callot,#Jacques_Callot,19687783,['356'],Pictures &c.,EPF108491267,"-356.
             A picture of devills & witches by 
                 Callot on boards.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"" rend=""deleted"">
             <ea:catnum type=""primary"" place=""margin"">-356.</ea:catnum>
@@ -17325,7 +17374,7 @@ Queen Catherine,#Queen_Catherine,,['357'],Pictures &c.,EPF108491267,"-357.
           </div3>
 
           "
-Tho. Simmons,#Thomas_Simon, 96593406,['357'],Pictures &c.,EPF108491267,"-357.
+Tho. Simmons,#Thomas_Simon,96593406,['357'],Pictures &c.,EPF108491267,"-357.
             A draught of Queen Catherine
               consort of Charles her great seal wt. an order of the Kings to Tho.
                 Simmons to engrave it. Given me by
@@ -17669,12 +17718,12 @@ Sr Godfrey Kneller,#Sr_Godfrey_Kneller,74127041,['375'],Pictures &c.,EPF10849126
           "
 Mrs. Hanbury,#Mrs_John_Hanbury,,['376'],Pictures &c.,EPF108491268,"-376.
             The head of Mrs. Hanbury (ye Major's Lady)
-              
+              after
                 
                 Kneller ? by Do : 1706.  bought with the foregoing. 0: 16: 0","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"" rend=""deleted"">
             <ea:catnum type=""primary"" place=""margin"">-376.</ea:catnum>
             <p>The <add rend=""underline"">head</add> of <persName ref=""#Mrs_John_Hanbury"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Hanbury</add></persName> (y<hi rend=""sup"">e</hi> Major's Lady)<lb/>
-              <persName ref=""#Sr_Godfrey_Kneller"">
+              <persName ref=""#Sr_Godfrey_Kneller"">after
                 
                 <add rend=""underline"">Kneller</add></persName> ? by <add rend=""underline"">D<hi rend=""sup"">o</hi> :</add> 1706. <lb/> bought with the foregoing. <note type=""value"">0: 16: 0</note></p>
             <p>
@@ -17683,14 +17732,14 @@ Mrs. Hanbury,#Mrs_John_Hanbury,,['376'],Pictures &c.,EPF108491268,"-376.
           </div3>
 
           "
-Kneller,#Sr_Godfrey_Kneller,74127041,['376'],Pictures &c.,EPF108491268,"-376.
+after Kneller,,,['376'],Pictures &c.,EPF108491268,"-376.
             The head of Mrs. Hanbury (ye Major's Lady)
-              
+              after
                 
                 Kneller ? by Do : 1706.  bought with the foregoing. 0: 16: 0","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"" rend=""deleted"">
             <ea:catnum type=""primary"" place=""margin"">-376.</ea:catnum>
             <p>The <add rend=""underline"">head</add> of <persName ref=""#Mrs_John_Hanbury"">M<hi rend=""sup"">rs</hi>. <add rend=""underline"">Hanbury</add></persName> (y<hi rend=""sup"">e</hi> Major's Lady)<lb/>
-              <persName ref=""#Sr_Godfrey_Kneller"">
+              <persName ref=""#Sr_Godfrey_Kneller"">after
                 
                 <add rend=""underline"">Kneller</add></persName> ? by <add rend=""underline"">D<hi rend=""sup"">o</hi> :</add> 1706. <lb/> bought with the foregoing. <note type=""value"">0: 16: 0</note></p>
             <p>
@@ -17715,7 +17764,7 @@ Mr. Churchmans,#Walter_Churchman,,['379'],Pictures &c.,EPF108491268,"-379.
           </div3>
 
           "
-Abraham Symmeons,#Abraham_Simon,95831645 ,['382'],Pictures &c.,EPF108491268,"-382.
+Abraham Symmeons,#Abraham_Simon,95831645,['382'],Pictures &c.,EPF108491268,"-382.
             
             A bead done in paste by 
               Abraham Symmeons, 2 Carvd onyx's in
@@ -17825,7 +17874,7 @@ Godwin Lewis,#Godwin_Lewis,,['399'],Pictures &c.,EPF108491270,"399.
               V b","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">399.</ea:catnum>
             <p>A midling sizd <add rend=""underline"">pike</add> of <add rend=""underline"">Jack</add>
-              catchd May 18-1722. in the <placeName>Thames</placeName><lb/> near <placeName ref=""#Hampton_Court"">Hampton court</placeName> by <persName ref=""#Godwin_Lewis"">Godwin <add rend=""underline"">Lewis</add></persName> with its hinder parts<lb/> eaten by
+              catchd May 18-1722. in the <placeName ref=""#Thames"">Thames</placeName><lb/> near <placeName ref=""#Hampton_Court"">Hampton court</placeName> by <persName ref=""#Godwin_Lewis"">Godwin <add rend=""underline"">Lewis</add></persName> with its hinder parts<lb/> eaten by
               another of the same fishes.</p>
             <p>l 
               <add rend=""red"">V b</add></p>
@@ -18011,7 +18060,7 @@ Mrs. A. Thornburgh,#Mrs._Thornburgh,,['468'],Pictures &c.,EPF108491271,"468.
               21. S.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
             <ea:catnum type=""primary"" place=""margin"">468.</ea:catnum>
             <p>A Watch-cutt by <persName ref=""#Mrs._Thornburgh"">M<hi rend=""sup"">rs</hi>. A. Thornburgh</persName><lb/> a
-              nun at <placeName>antwerp</placeName>. &amp; given by Her -</p>
+              nun at <placeName ref=""#Antwerp"">antwerp</placeName>. &amp; given by Her -</p>
             <p>
               
               <add rend=""red"">21. S.</add>
@@ -18131,7 +18180,7 @@ Mr. Pinchbeck,#Mr._Pinchbeck,,[],Pictures &c.,EPF108491271,"A picture of  Sr. Ha
           </div3>
 
           "
-Mr. James Rousseau,#Mr_usseau, 47036535,[],Pictures &c.,EPF108491271,"A picture of the late  Mr. James
+Mr. James Rousseau,#Mr_usseau,47036535,[],Pictures &c.,EPF108491271,"A picture of the late  Mr. James
               Rousseau concerned in the paintings of Montagu House, Presented by
                   Mr Wollfryes.","<div3 xmlns=""http://www.tei-c.org/ns/1.0"" xmlns:ea=""http://www.enlightenmentarchitectures.org"">
 
@@ -18744,7 +18793,7 @@ Dr. Waldo,#Daniel_Waldo,,['205'],Agate cups botles spoons &c.,EPF108491326,"-205
               <lb/> of which is made of <add rend=""underline"">Capis nephritieus</add>
               <lb/> of a <measure type=""sizeWeight"">light</measure> colour adorned w<hi rend=""sup"">t</hi>. <measure type=""sizeWeight"">small</measure> rubies <lb/> From 
               <persName ref=""#Daniel_Waldo"">D<hi rend=""sup"">r</hi>. <add rend=""underline"">Waldo</add></persName> from
-                <placeName>suratte</placeName>. <note type=""value"">2. 2. 0.</note></p>
+                <placeName ref=""#Suratte"">suratte</placeName>. <note type=""value"">2. 2. 0.</note></p>
             <p>
               
             </p>
